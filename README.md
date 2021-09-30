@@ -67,10 +67,6 @@ helm-chart-test:
     - https://mattiaperi.github.io/helm-chart/helm-chart-test-0.1.0.tgz
       version: 0.1.0
       generated: 2019-04-16T11:10:08.729368+02:00
-      Push the git repository on GitHub
-      $ git add . && git commit -m “Initial commit” && git push origin master
-      Configure the “helm-chart” repository as a Github pages site
-      Now it’s time to publish the contents of our git repository as Github pages. Go back to your browser, in the “settings” section of your git repository, scroll down to Github Pages section and configure it as follow:
 ```
 
 ### Step 6. Commit local changes
