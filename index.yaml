@@ -3,16 +3,16 @@ entries:
   tkeel-platform:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-09-29T17:10:07.44011+08:00"
+    created: "2021-10-08T17:01:43.567003+08:00"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
       version: 15.3.2
     description: A Helm chart for tKeel Platform
-    digest: b3f1f3b0869f5d5198b3e10f69cb1e3059485a120acad401512d59cea8189166
+    digest: 863e00964a5c238fcd6498b7138652ce65b623bf55c03afd89ccc2ad6e03c1c9
     name: tkeel-platform
     type: application
     urls:
     - https://tkeel-io.github.io/helm-charts/tkeel-platform-0.1.0.tgz
     version: 0.1.0
-generated: "2021-09-29T17:10:07.434625+08:00"
+generated: "2021-10-08T17:01:43.562197+08:00"
