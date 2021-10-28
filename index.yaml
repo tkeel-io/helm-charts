@@ -1,5 +1,28 @@
 apiVersion: v1
 entries:
+  emqx:
+  - apiVersion: v2
+    appVersion: latest
+    created: "2021-10-08T08:40:41.591382676-07:00"
+    description: A Helm chart for EMQ X
+    digest: 5574f6df1a6fd1ac42e3c5937150facc68d8aaef3b2a1d1a0d3f08d927741976
+    icon: https://github.com/emqx.png
+    name: emqx
+    type: application
+    urls:
+    - https://mattiaperi.github.io/helm-chart/emqx-4.3.0.tgz
+    version: 4.3.0
+  iothub:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-10-08T08:40:41.591871738-07:00"
+    description: A Helm chart for Kubernetes
+    digest: 23c6a2a992427a56e99ce7c47dbb70ccad94c6132c5e2ff668ae148e491c0e4c
+    name: iothub
+    type: application
+    urls:
+    - https://mattiaperi.github.io/helm-chart/iothub-0.1.0.tgz
+    version: 0.1.0
   auth:
   - apiVersion: v2
     appVersion: 1.16.0
