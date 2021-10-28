@@ -23,19 +23,74 @@ entries:
     urls:
     - https://mattiaperi.github.io/helm-chart/iothub-0.1.0.tgz
     version: 0.1.0
-  tkeel-platform:
+  auth:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-10-08T08:40:41.601668388-07:00"
+    created: "2021-10-26T08:48:41.010193+08:00"
+    description: A Helm chart for Kubernetes
+    digest: d4218bbee11caaf156f2219000664a28581c6dc4bba1f1438a244d69ad093d08
+    name: auth
+    type: application
+    urls:
+    - https://tkeel-io.github.io/helm-charts/auth-0.1.0.tgz
+    version: 0.1.0
+  core:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-10-26T08:48:41.010572+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 7d1b2d4e8d0f8511a6573386391cefc82fe6833bec0ef81f1f2c0066fb6ba3bf
+    name: core
+    type: application
+    urls:
+    - https://tkeel-io.github.io/helm-charts/core-0.1.0.tgz
+    version: 0.1.0
+  keel:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-10-26T08:48:41.011333+08:00"
+    description: A Helm chart for Kubernetes
+    digest: f3a438e969a277329881cab93e4b98bdcd05786d42333648e73917f8c338ecd7
+    name: keel
+    type: application
+    urls:
+    - https://tkeel-io.github.io/helm-charts/keel-0.1.0.tgz
+    version: 0.1.0
+  plugins:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-10-26T08:48:41.012012+08:00"
+    description: A Helm chart for Kubernetes
+    digest: dacf09efa342e7e0e823ed85fd7e34fddcdaf41cd47e624b40869852d1986ad3
+    name: plugins
+    type: application
+    urls:
+    - https://tkeel-io.github.io/helm-charts/plugins-0.1.0.tgz
+    version: 0.1.0
+  tkeel-middleware:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-10-26T08:48:41.018697+08:00"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
       version: 15.3.2
-    description: A Helm chart for tKeel Platform
-    digest: 863e00964a5c238fcd6498b7138652ce65b623bf55c03afd89ccc2ad6e03c1c9
-    name: tkeel-platform
+    description: A Helm chart for tKeel middleware
+    digest: dc790b61577044d8bcd698355b3cd636d5af8c993e7e99a34c15120dcbf8eea4
+    name: tkeel-middleware
     type: application
     urls:
-    - https://mattiaperi.github.io/helm-chart/tkeel-platform-0.1.0.tgz
+    - https://tkeel-io.github.io/helm-charts/tkeel-middleware-0.1.0.tgz
     version: 0.1.0
-generated: "2021-10-08T08:40:41.590619093-07:00"
+  tkeel-plugin-components:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-10-26T08:48:41.019167+08:00"
+    description: A Helm chart for Kubernetes
+    digest: bd51850d88b63e9aeef0e90ec57373aab4da1405acd14728abbf54dd797af8a0
+    name: tkeel-plugin-components
+    type: application
+    urls:
+    - https://tkeel-io.github.io/helm-charts/tkeel-plugin-components-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-10-26T08:48:41.009281+08:00"
