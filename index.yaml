@@ -10,7 +10,7 @@ entries:
     name: emqx
     type: application
     urls:
-    - https://mattiaperi.github.io/helm-chart/emqx-4.3.0.tgz
+    - https://tkeel-io.github.io/helm-charts/emqx-4.3.0.tgz
     version: 4.3.0
   iothub:
   - apiVersion: v2
@@ -21,7 +21,7 @@ entries:
     name: iothub
     type: application
     urls:
-    - https://mattiaperi.github.io/helm-chart/iothub-0.1.0.tgz
+    - https://tkeel-io.github.io/helm-charts/iothub-0.1.0.tgz
     version: 0.1.0
   auth:
   - apiVersion: v2
