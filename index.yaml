@@ -1,32 +1,9 @@
 apiVersion: v1
 entries:
-  emqx:
-  - apiVersion: v2
-    appVersion: latest
-    created: "2021-10-08T08:40:41.591382676-07:00"
-    description: A Helm chart for EMQ X
-    digest: 5574f6df1a6fd1ac42e3c5937150facc68d8aaef3b2a1d1a0d3f08d927741976
-    icon: https://github.com/emqx.png
-    name: emqx
-    type: application
-    urls:
-    - https://tkeel-io.github.io/helm-charts/emqx-4.3.0.tgz
-    version: 4.3.0
-  iothub:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2021-10-08T08:40:41.591871738-07:00"
-    description: A Helm chart for Kubernetes
-    digest: 23c6a2a992427a56e99ce7c47dbb70ccad94c6132c5e2ff668ae148e491c0e4c
-    name: iothub
-    type: application
-    urls:
-    - https://tkeel-io.github.io/helm-charts/iothub-0.1.0.tgz
-    version: 0.1.0
   auth:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-10-26T08:48:41.010193+08:00"
+    created: "2021-11-01T16:02:36.597131+08:00"
     description: A Helm chart for Kubernetes
     digest: d4218bbee11caaf156f2219000664a28581c6dc4bba1f1438a244d69ad093d08
     name: auth
@@ -37,7 +14,7 @@ entries:
   core:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-10-26T08:48:41.010572+08:00"
+    created: "2021-11-01T16:02:36.598049+08:00"
     description: A Helm chart for Kubernetes
     digest: 7d1b2d4e8d0f8511a6573386391cefc82fe6833bec0ef81f1f2c0066fb6ba3bf
     name: core
@@ -45,10 +22,37 @@ entries:
     urls:
     - https://tkeel-io.github.io/helm-charts/core-0.1.0.tgz
     version: 0.1.0
+  iothub:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-11-01T16:02:36.599541+08:00"
+    dependencies:
+    - name: emqx
+      repository: ""
+    description: A Helm chart for Kubernetes
+    digest: 8f19799e28525efd4d288efad01b1f70a89c4ca96b89e2948c67752a176fbead
+    name: iothub
+    type: application
+    urls:
+    - https://tkeel-io.github.io/helm-charts/iothub-0.1.0.tgz
+    version: 0.1.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-11-01T16:02:36.610603+08:00"
+    dependencies:
+    - name: emqx
+      repository: ""
+    description: A Helm chart for Kubernetes
+    digest: 8f19799e28525efd4d288efad01b1f70a89c4ca96b89e2948c67752a176fbead
+    name: iothub
+    type: application
+    urls:
+    - https://tkeel-io.github.io/helm-charts/iothub/iothub-0.1.0.tgz
+    version: 0.1.0
   keel:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-10-26T08:48:41.011333+08:00"
+    created: "2021-11-01T16:02:36.600425+08:00"
     description: A Helm chart for Kubernetes
     digest: f3a438e969a277329881cab93e4b98bdcd05786d42333648e73917f8c338ecd7
     name: keel
@@ -59,7 +63,7 @@ entries:
   plugins:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-10-26T08:48:41.012012+08:00"
+    created: "2021-11-01T16:02:36.600828+08:00"
     description: A Helm chart for Kubernetes
     digest: dacf09efa342e7e0e823ed85fd7e34fddcdaf41cd47e624b40869852d1986ad3
     name: plugins
@@ -70,7 +74,7 @@ entries:
   tkeel-middleware:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-10-26T08:48:41.018697+08:00"
+    created: "2021-11-01T16:02:36.608181+08:00"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -85,7 +89,7 @@ entries:
   tkeel-plugin-components:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-10-26T08:48:41.019167+08:00"
+    created: "2021-11-01T16:02:36.608606+08:00"
     description: A Helm chart for Kubernetes
     digest: bd51850d88b63e9aeef0e90ec57373aab4da1405acd14728abbf54dd797af8a0
     name: tkeel-plugin-components
@@ -93,4 +97,4 @@ entries:
     urls:
     - https://tkeel-io.github.io/helm-charts/tkeel-plugin-components-0.1.0.tgz
     version: 0.1.0
-generated: "2021-10-26T08:48:41.009281+08:00"
+generated: "2021-11-01T16:02:36.594415+08:00"
