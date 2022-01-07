@@ -13,6 +13,21 @@ entries:
     version: 0.1.0
   core:
   - apiVersion: v2
+    appVersion: 0.3.0
+    created: "2022-01-07T10:04:50.264574+08:00"
+    dependencies:
+    - name: etcd
+      repository: ""
+    - name: elasticsearch
+      repository: ""
+    description: A Helm chart for Kubernetes
+    digest: d51306507a143153aba23e1682d73d7c4a3b5a9db6a11fc69e7e0e4598d25087
+    name: core
+    type: application
+    urls:
+    - https://tkeel-io.github.io/helm-charts/core-0.3.0.tgz
+    version: 0.3.0
+  - apiVersion: v2
     appVersion: 0.2.0
     created: "2022-01-06T18:46:20.934396929-08:00"
     dependencies:
@@ -21,7 +36,7 @@ entries:
     - name: elasticsearch
       repository: ""
     description: A Helm chart for Kubernetes
-    digest: 570577ac2323d09ea0567a52f4bcd98ca328dd450c07549515e5dbc42453abdf
+    digest: c6198ae5db99f1e3721eddfee698efa865a7c3afff900ed89bec55cead3ba699
     name: core
     type: application
     urls:
