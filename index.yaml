@@ -3,7 +3,7 @@ entries:
   auth:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-03-14T11:01:42.66910014Z"
+    created: "2022-03-14T11:06:10.204026706Z"
     description: A Helm chart for Kubernetes
     digest: d4218bbee11caaf156f2219000664a28581c6dc4bba1f1438a244d69ad093d08
     name: auth
@@ -20,7 +20,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.1
-    created: "2022-03-14T11:01:42.675201575Z"
+    created: "2022-03-14T11:06:10.209814287Z"
     description: console of plugin manager
     digest: 7b7b2feb8efbb4fe378a9b16348c8bedb149dfa63130b014ee4a3750af5b890e
     maintainers:
@@ -39,7 +39,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.0-alpha.2
-    created: "2022-03-14T11:01:42.674808947Z"
+    created: "2022-03-14T11:06:10.209038685Z"
     description: console of plugin manager
     digest: 31003f9fd0ed8b6d6adeb8912e2c940204b80770a191f11316a19596b47b2472
     maintainers:
@@ -58,7 +58,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.0-alpha.1
-    created: "2022-03-14T11:01:42.674408438Z"
+    created: "2022-03-14T11:06:10.208253197Z"
     description: console of plugin manager
     digest: 43cad65d3891d9545f40c6c3a483b6a0f90d81e6c6ce34d7c7262167cc5ec5c5
     maintainers:
@@ -77,7 +77,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.3.0
-    created: "2022-03-14T11:01:42.673819399Z"
+    created: "2022-03-14T11:06:10.207315948Z"
     description: console of plugin manager
     digest: 4a5d5ae882ed7fa4577f3416aa0a87c3849d8a89da9f623dae905cfbfca4f717
     maintainers:
@@ -97,7 +97,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.1
-    created: "2022-03-14T11:01:42.676144391Z"
+    created: "2022-03-14T11:06:10.211361705Z"
     description: console of plugin manager
     digest: ef05b78d8dc153dfc0802b51469bce2796bceb0c1a927bb948db4bbeff6bf4c3
     maintainers:
@@ -116,7 +116,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.0-alpha.2
-    created: "2022-03-14T11:01:42.675681673Z"
+    created: "2022-03-14T11:06:10.210574285Z"
     description: console of plugin manager
     digest: ab8112ac66074349307713b319e2ecae0ecdeeb4269008715e1b54b78821fcb9
     maintainers:
@@ -136,7 +136,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.2
-    created: "2022-03-14T11:01:42.676577036Z"
+    created: "2022-03-14T11:06:10.211971992Z"
     description: 数据查询
     digest: 16aecddc9db76f7b379ef5fe7c183283e96be35595402d0cfec886245a0ac9f2
     maintainers:
@@ -156,7 +156,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.1
-    created: "2022-03-14T11:01:42.678170628Z"
+    created: "2022-03-14T11:06:10.212952297Z"
     description: tenant and user console
     digest: 130050f6542a9796ec6fcfa1fad179663792641a44cd289a9f4531c4c7e65cc3
     maintainers:
@@ -175,7 +175,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.0-alpha.2
-    created: "2022-03-14T11:01:42.677126411Z"
+    created: "2022-03-14T11:06:10.212408381Z"
     description: tenant and user console
     digest: cb30e79de1f8a634ab5704abdd66eb927858b2017aa68d0cdcc5797b99260c09
     maintainers:
@@ -195,7 +195,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.1
-    created: "2022-03-14T11:01:42.679531907Z"
+    created: "2022-03-14T11:06:10.214219476Z"
     description: tenant and user console
     digest: 890969791218d51f777533a1ba3e7ed4cda96a16e4543a6d618ba78d85377272
     maintainers:
@@ -214,7 +214,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.0-alpha.2
-    created: "2022-03-14T11:01:42.678854318Z"
+    created: "2022-03-14T11:06:10.213588905Z"
     description: tenant and user console
     digest: eafa722eaf0afc6fbc71a8976afe782a603369f2f2f55b873b41dcea27acf7df
     maintainers:
@@ -234,7 +234,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.1
-    created: "2022-03-14T11:01:42.680905759Z"
+    created: "2022-03-14T11:06:10.215532893Z"
     description: tenant and user console
     digest: da5db967e7f2fca4fc4de91559a5eb041b2d3b3e3d3a5d81aec550a27d041c96
     maintainers:
@@ -253,7 +253,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.0-alpha.2
-    created: "2022-03-14T11:01:42.680182276Z"
+    created: "2022-03-14T11:06:10.214885233Z"
     description: tenant and user console
     digest: 0eaf39a1f2eb3718e283cc8f6bbd6d3b2da19493b79449107454ff996177c719
     maintainers:
@@ -273,7 +273,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.1
-    created: "2022-03-14T11:01:42.682408271Z"
+    created: "2022-03-14T11:06:10.216754017Z"
     description: tenant and user console
     digest: 66830f3b6978aa8afe6902782abac3adbccee4f02ffa9ee6a097d16d190b6b2e
     maintainers:
@@ -292,7 +292,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.0-alpha.2
-    created: "2022-03-14T11:01:42.681606595Z"
+    created: "2022-03-14T11:06:10.216169402Z"
     description: tenant and user console
     digest: 00010dcdcebe6442105de1577a4020cd57c43d548e3367e00d18eb5cc5993208
     maintainers:
@@ -312,7 +312,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.1
-    created: "2022-03-14T11:01:42.683831614Z"
+    created: "2022-03-14T11:06:10.21820131Z"
     description: tenant and user console
     digest: 96d4ce641ae23d50618798be39e13a0f5537b2a2c6713f48e817c5d919fb9f40
     maintainers:
@@ -331,7 +331,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.0-alpha.2
-    created: "2022-03-14T11:01:42.683105635Z"
+    created: "2022-03-14T11:06:10.21749143Z"
     description: tenant and user console
     digest: 5d24d5c1fa18effc826bab2483e5346f7f57a815ddf20c94f635cac9400032f6
     maintainers:
@@ -351,7 +351,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.1
-    created: "2022-03-14T11:01:42.686617907Z"
+    created: "2022-03-14T11:06:10.220795947Z"
     description: tenant and user console
     digest: 302cd6fb6ee14970cf626449c1d87d260e7c54e2f42b83ef925a36f57ff52a66
     maintainers:
@@ -370,7 +370,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.0-alpha.2
-    created: "2022-03-14T11:01:42.686095047Z"
+    created: "2022-03-14T11:06:10.220141042Z"
     description: tenant and user console
     digest: cd56c7dbd5a6bbac8420e8ec22241795de497a1d862e4c7b4872061efd72edf3
     maintainers:
@@ -389,7 +389,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.0-alpha.1
-    created: "2022-03-14T11:01:42.68540787Z"
+    created: "2022-03-14T11:06:10.219499884Z"
     description: tenant and user console
     digest: 50cd185e1aef1e7fe25dad5e934ada8d2475c48adf8e76418f392b7e6f72ac08
     maintainers:
@@ -408,7 +408,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.3.0
-    created: "2022-03-14T11:01:42.684805243Z"
+    created: "2022-03-14T11:06:10.218864338Z"
     description: tenant and user console
     digest: 14c67ecdbec4a11922d4421783ebc2f2c13cf570782e8b803b28c4715fed90b5
     maintainers:
@@ -428,7 +428,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.1
-    created: "2022-03-14T11:01:42.689174049Z"
+    created: "2022-03-14T11:06:10.222736143Z"
     description: console manager portal
     digest: 2faa3ed4337b1c36f3eae5cd789705958f03a519b44cbbbf6aa8c734b25b9fec
     maintainers:
@@ -447,7 +447,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.0-alpha.2
-    created: "2022-03-14T11:01:42.688284541Z"
+    created: "2022-03-14T11:06:10.222226909Z"
     description: console manager portal
     digest: ca2666a0e0f9767da925de9c63c6281c4ccc010327fafb4f3d63bcfb49f9cd77
     maintainers:
@@ -466,7 +466,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.0-alpha.1
-    created: "2022-03-14T11:01:42.687607906Z"
+    created: "2022-03-14T11:06:10.221771344Z"
     description: console manager portal
     digest: b1ff3c96d647d5a97e1242b0b80b12f1c79237a501d648b71d00b0435be33c7d
     maintainers:
@@ -485,7 +485,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.3.0
-    created: "2022-03-14T11:01:42.687117172Z"
+    created: "2022-03-14T11:06:10.221286576Z"
     description: console manager portal
     digest: 6d0f643c6912ff71dc51cf4722599485834cd7895fa13fcb7646e2f1bed0cc60
     maintainers:
@@ -505,7 +505,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.1
-    created: "2022-03-14T11:01:42.693159616Z"
+    created: "2022-03-14T11:06:10.224731621Z"
     description: console user portal
     digest: bb08dbc4b182603116ecf150b88c19ede5892cfeeb9a409471ef4d45d30dd983
     maintainers:
@@ -524,7 +524,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.0-alpha.2
-    created: "2022-03-14T11:01:42.692453807Z"
+    created: "2022-03-14T11:06:10.224179655Z"
     description: console user portal
     digest: 860c6d05488798f18a1a207f75bc769d76c07f959129f60e38e8c9cc3087fc33
     maintainers:
@@ -543,7 +543,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.0-alpha.1
-    created: "2022-03-14T11:01:42.691306491Z"
+    created: "2022-03-14T11:06:10.223696009Z"
     description: console user portal
     digest: 129c61860c2a5a46be1429fb9328691396176b368ed417d0419579c6a695561f
     maintainers:
@@ -562,7 +562,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.3.0
-    created: "2022-03-14T11:01:42.689946878Z"
+    created: "2022-03-14T11:06:10.223232121Z"
     description: console user portal
     digest: 22c126ce123c4f1de6c66db5b937338d3b3f2ff4a21adbc0219728021c6b541c
     maintainers:
@@ -575,8 +575,25 @@ entries:
     version: 0.0.1
   core:
   - apiVersion: v2
+    appVersion: feat-ts-0.4.2
+    created: "2022-03-14T11:06:10.307974738Z"
+    dependencies:
+    - name: influxdb
+      repository: https://charts.bitnami.com/bitnami
+      version: 3.0.2
+    description: A Helm chart for Kubernetes
+    digest: 5f1d8a18e14739420696a2bac38ddde6ef36eff1de2180aed3a4bb74b3899839
+    maintainers:
+    - email: tkeel@yunify.com
+      name: tkeel
+    name: core
+    type: application
+    urls:
+    - https://tkeel-io.github.io/helm-charts/core-0.9.9.tgz
+    version: 0.9.9
+  - apiVersion: v2
     appVersion: main-0.4.2
-    created: "2022-03-14T11:01:42.750362347Z"
+    created: "2022-03-14T11:06:10.286599307Z"
     dependencies:
     - name: influxdb
       repository: https://charts.bitnami.com/bitnami
@@ -593,7 +610,7 @@ entries:
     version: 0.4.2
   - apiVersion: v2
     appVersion: feat-ts-
-    created: "2022-03-14T11:01:42.713484976Z"
+    created: "2022-03-14T11:06:10.244658859Z"
     dependencies:
     - name: influxdb
       repository: https://charts.bitnami.com/bitnami
@@ -610,7 +627,7 @@ entries:
     version: 0.4.1
   - apiVersion: v2
     appVersion: 0.4.1
-    created: "2022-03-14T11:01:42.739244754Z"
+    created: "2022-03-14T11:06:10.275808352Z"
     description: A Helm chart for Kubernetes
     digest: 73e1230cffc56413ba2e1a0dbbe5e0b2ed12bf65e27b71ba43e68f6128e7b265
     name: core
@@ -620,7 +637,7 @@ entries:
     version: 0.4.1
   - apiVersion: v2
     appVersion: 0.3.0
-    created: "2022-03-14T11:01:42.738544355Z"
+    created: "2022-03-14T11:06:10.274994286Z"
     description: A Helm chart for Kubernetes
     digest: fec74001b84f6198a358e5bfedd8ae8593d62d0e96da73a1ce4b5bd3c3bef62a
     name: core
@@ -630,7 +647,7 @@ entries:
     version: 0.4.0
   - apiVersion: v2
     appVersion: 0.4.0-alpha.3
-    created: "2022-03-14T11:01:42.737964656Z"
+    created: "2022-03-14T11:06:10.274515768Z"
     description: A Helm chart for Kubernetes
     digest: ada7f5a375a77d2de0c255f2a0c8648b1d6df7621dcd188802de1e163d714a23
     name: core
@@ -640,7 +657,7 @@ entries:
     version: 0.4.0-alpha.3
   - apiVersion: v2
     appVersion: 0.4.0-alpha.2
-    created: "2022-03-14T11:01:42.737482428Z"
+    created: "2022-03-14T11:06:10.27371511Z"
     description: A Helm chart for Kubernetes
     digest: 66e1dea6a9011c2de5bbf2a5a521889e4f44e30bc097cf8d97fa07a559e71633
     name: core
@@ -650,7 +667,7 @@ entries:
     version: 0.4.0-alpha.2
   - apiVersion: v2
     appVersion: 0.3.0
-    created: "2022-03-14T11:01:42.736913922Z"
+    created: "2022-03-14T11:06:10.272689483Z"
     description: A Helm chart for Kubernetes
     digest: aa9ed5bd3ebeafe15a430fed1e305405e577e0a261ca27cd4f5d5b56a1a8c3e3
     name: core
@@ -660,7 +677,7 @@ entries:
     version: 0.4.0-alpha.1
   - apiVersion: v2
     appVersion: 0.3.0
-    created: "2022-03-14T11:01:42.736268639Z"
+    created: "2022-03-14T11:06:10.271881908Z"
     dependencies:
     - name: etcd
       repository: ""
@@ -675,7 +692,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 0.2.0
-    created: "2022-03-14T11:01:42.727036996Z"
+    created: "2022-03-14T11:06:10.256512795Z"
     dependencies:
     - name: etcd
       repository: ""
@@ -690,7 +707,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-03-14T11:01:42.714196049Z"
+    created: "2022-03-14T11:06:10.245421393Z"
     description: A Helm chart for Kubernetes
     digest: 7d1b2d4e8d0f8511a6573386391cefc82fe6833bec0ef81f1f2c0066fb6ba3bf
     name: core
@@ -707,7 +724,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.2
-    created: "2022-03-14T11:01:42.768324897Z"
+    created: "2022-03-14T11:06:10.327272267Z"
     dependencies:
     - name: mysql
       repository: https://charts.bitnami.com/bitnami
@@ -730,7 +747,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.1
-    created: "2022-03-14T11:01:42.758595968Z"
+    created: "2022-03-14T11:06:10.318716728Z"
     dependencies:
     - name: mysql
       repository: https://charts.bitnami.com/bitnami
@@ -753,7 +770,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.0-alpha.2
-    created: "2022-03-14T11:01:42.75168814Z"
+    created: "2022-03-14T11:06:10.310023253Z"
     description: A Helm chart for Kubernetes
     digest: d538ea1d3c9a77c82e9a5fbd1c8d13a6af4b69eee22ea759ba6b7d3395a2bf2a
     maintainers:
@@ -772,7 +789,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.3.0
-    created: "2022-03-14T11:01:42.751015297Z"
+    created: "2022-03-14T11:06:10.30902031Z"
     description: A Helm chart for Kubernetes
     digest: cee69b43ff68092608e8e2fc73506caa03abd690b4b88259f55e9a9a94938b56
     maintainers:
@@ -786,7 +803,7 @@ entries:
   hello-tkeel:
   - apiVersion: v2
     appVersion: 0.3.0
-    created: "2022-03-14T11:01:42.769566241Z"
+    created: "2022-03-14T11:06:10.327908013Z"
     description: A Helm chart for Kubernetes
     digest: ee7c854ae0803f2f57aeeb3a9dd79f305b39ab9480e5ddda5cc9b1e94274f922
     name: hello-tkeel
@@ -799,7 +816,7 @@ entries:
       tkeel.io/enable: "false"
     apiVersion: v2
     appVersion: 0.4.2
-    created: "2022-03-14T11:01:42.772027524Z"
+    created: "2022-03-14T11:06:10.3304995Z"
     dependencies:
     - name: emqx
       repository: ""
@@ -814,7 +831,7 @@ entries:
       tkeel.io/enable: "false"
     apiVersion: v2
     appVersion: 0.4.2
-    created: "2022-03-14T11:01:42.787653686Z"
+    created: "2022-03-14T11:06:10.349106015Z"
     dependencies:
     - name: emqx
       repository: ""
@@ -827,7 +844,7 @@ entries:
     version: 0.4.2
   - apiVersion: v2
     appVersion: 0.4.1
-    created: "2022-03-14T11:01:42.785740706Z"
+    created: "2022-03-14T11:06:10.347197816Z"
     dependencies:
     - name: emqx
       repository: ""
@@ -842,7 +859,7 @@ entries:
       tkeel.io/enable: "false"
     apiVersion: v2
     appVersion: 0.3.0
-    created: "2022-03-14T11:01:42.783403468Z"
+    created: "2022-03-14T11:06:10.345204478Z"
     dependencies:
     - name: emqx
       repository: ""
@@ -855,7 +872,7 @@ entries:
     version: 0.4.0-alpha.2
   - apiVersion: v2
     appVersion: 0.3.0
-    created: "2022-03-14T11:01:42.781166688Z"
+    created: "2022-03-14T11:06:10.34043066Z"
     dependencies:
     - name: emqx
       repository: ""
@@ -868,7 +885,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-03-14T11:01:42.778969451Z"
+    created: "2022-03-14T11:06:10.337735648Z"
     dependencies:
     - name: emqx
       repository: ""
@@ -883,7 +900,7 @@ entries:
       tkeel.io/enable: "false"
     apiVersion: v2
     appVersion: 0.1.1-testing
-    created: "2022-03-14T11:01:42.776363711Z"
+    created: "2022-03-14T11:06:10.336093064Z"
     dependencies:
     - name: emqx
       repository: ""
@@ -896,7 +913,7 @@ entries:
     version: 0.1.1-testing
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-03-14T11:01:42.774038886Z"
+    created: "2022-03-14T11:06:10.333422903Z"
     dependencies:
     - name: emqx
       repository: ""
@@ -910,7 +927,7 @@ entries:
   keel:
   - apiVersion: v2
     appVersion: main-0.4.2
-    created: "2022-03-14T11:01:42.791351234Z"
+    created: "2022-03-14T11:06:10.352347019Z"
     description: tKeel platform gateway.
     digest: 25ce5c63850c99183a866d707b15b20584e99917781d1f0c9468a5750b7db87a
     name: keel
@@ -920,7 +937,7 @@ entries:
     version: 0.4.2
   - apiVersion: v2
     appVersion: PR-155-0.4.2
-    created: "2022-03-14T11:01:42.790910584Z"
+    created: "2022-03-14T11:06:10.351936466Z"
     description: tKeel platform gateway.
     digest: d38fabb6f8cc56a0d5fa53ed8993fa0b56c4d3572e99c8dd1a1bea0dcd6d1cd0
     name: keel
@@ -930,7 +947,7 @@ entries:
     version: 0.4.2-PR-155
   - apiVersion: v2
     appVersion: 0.4.1
-    created: "2022-03-14T11:01:42.790409561Z"
+    created: "2022-03-14T11:06:10.351533763Z"
     description: tKeel platform gateway.
     digest: 62ec5fba9a0a97c8d0cfc2e233bb5f3af454b3b833626a93611404d3a0ce614b
     name: keel
@@ -940,7 +957,7 @@ entries:
     version: 0.4.1
   - apiVersion: v2
     appVersion: 0.4.0-alpha.2
-    created: "2022-03-14T11:01:42.789812659Z"
+    created: "2022-03-14T11:06:10.351061127Z"
     description: tKeel platform gateway.
     digest: b0bcfe7a5177f0d998549778a379c240a8b7d7050214070604f799e3c727e7b4
     name: keel
@@ -950,7 +967,7 @@ entries:
     version: 0.4.0-alpha.2
   - apiVersion: v2
     appVersion: 0.4.0-alpha.1
-    created: "2022-03-14T11:01:42.78942126Z"
+    created: "2022-03-14T11:06:10.35057274Z"
     description: tKeel platform gateway.
     digest: 93d92d0d6e0dfc9d04554e27be6348ee9b0b24906850bec70f421d730f3d9c2e
     name: keel
@@ -960,7 +977,7 @@ entries:
     version: 0.4.0-alpha.1
   - apiVersion: v2
     appVersion: 0.3.0
-    created: "2022-03-14T11:01:42.789022097Z"
+    created: "2022-03-14T11:06:10.350159643Z"
     description: A Helm chart for Kubernetes
     digest: 09eceb20d22c6952f0c8fb01187b5671c96c6e3db04b4b57cd290f0a661c9a43
     name: keel
@@ -970,7 +987,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 0.2.0
-    created: "2022-03-14T11:01:42.788337461Z"
+    created: "2022-03-14T11:06:10.349803766Z"
     description: A Helm chart for Kubernetes
     digest: 6775a4ed830b73ac4fbc3dc569889831d98662f2413ed0d40385d8abde412ad6
     name: keel
@@ -980,7 +997,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-03-14T11:01:42.788011075Z"
+    created: "2022-03-14T11:06:10.349472291Z"
     description: A Helm chart for Kubernetes
     digest: f3a438e969a277329881cab93e4b98bdcd05786d42333648e73917f8c338ecd7
     name: keel
@@ -991,7 +1008,7 @@ entries:
   keel-echo:
   - apiVersion: v2
     appVersion: 0.3.0
-    created: "2022-03-14T11:01:42.792142273Z"
+    created: "2022-03-14T11:06:10.353031076Z"
     description: A Helm chart for Kubernetes
     digest: 329b03d816279bb48f59aa05091a1aaf9889feb1f834248a975e190b2bc901ca
     name: keel-echo
@@ -1001,7 +1018,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 0.2.0
-    created: "2022-03-14T11:01:42.791766234Z"
+    created: "2022-03-14T11:06:10.352671002Z"
     description: A Helm chart for Kubernetes
     digest: a74d779ea1d1ed23f4f1792d4131ccbb7cac7e98768fe23a82201408c82a3685
     name: keel-echo
@@ -1012,7 +1029,7 @@ entries:
   plugins:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-03-14T11:01:42.794016137Z"
+    created: "2022-03-14T11:06:10.353414794Z"
     description: A Helm chart for Kubernetes
     digest: dacf09efa342e7e0e823ed85fd7e34fddcdaf41cd47e624b40869852d1986ad3
     name: plugins
@@ -1023,7 +1040,7 @@ entries:
   rudder:
   - apiVersion: v2
     appVersion: main-0.4.2
-    created: "2022-03-14T11:01:42.799045156Z"
+    created: "2022-03-14T11:06:10.356964486Z"
     description: tKeel platform plugin manager component.
     digest: 1d1e59b7cc0da7c877fc293ee384cb869529f7ff9e59464f9aa8a0d085a0195d
     name: rudder
@@ -1033,7 +1050,7 @@ entries:
     version: 0.4.2
   - apiVersion: v2
     appVersion: PR-155-0.4.2
-    created: "2022-03-14T11:01:42.798368078Z"
+    created: "2022-03-14T11:06:10.356387045Z"
     description: tKeel platform plugin manager component.
     digest: 0275d1f5c6a341fd98b5dd4ec64ce6bd4dbd35508746fccf9074e2e0cf45334e
     name: rudder
@@ -1043,7 +1060,7 @@ entries:
     version: 0.4.2-PR-155
   - apiVersion: v2
     appVersion: 0.4.1
-    created: "2022-03-14T11:01:42.79765234Z"
+    created: "2022-03-14T11:06:10.355862383Z"
     description: tKeel platform plugin manager component.
     digest: 8c42348edf84bdc6379bbe7d79e499f44752e2dd243f29f182632812e955c46b
     name: rudder
@@ -1053,7 +1070,7 @@ entries:
     version: 0.4.1
   - apiVersion: v2
     appVersion: 0.4.0-alpha.2
-    created: "2022-03-14T11:01:42.796945887Z"
+    created: "2022-03-14T11:06:10.355294414Z"
     description: tKeel platform plugin manager component.
     digest: 47e3e3071f4f09ee101cf9a9c20ea50d54f5f83256087f310a8ccc34ee808b3a
     name: rudder
@@ -1063,7 +1080,7 @@ entries:
     version: 0.4.0-alpha.2
   - apiVersion: v2
     appVersion: 0.4.0-alpha.1
-    created: "2022-03-14T11:01:42.796210447Z"
+    created: "2022-03-14T11:06:10.354733208Z"
     description: tKeel platform plugin manager component.
     digest: 0b4b49b34725cc749d22b6c480307d9eb2f09e498a5fb0cd1730dd8600ea3cf3
     name: rudder
@@ -1073,7 +1090,7 @@ entries:
     version: 0.4.0-alpha.1
   - apiVersion: v2
     appVersion: 0.3.0
-    created: "2022-03-14T11:01:42.795382191Z"
+    created: "2022-03-14T11:06:10.354204798Z"
     description: A Helm chart for Kubernetes
     digest: c0d4453e602762599e33b049d5fdae9a93eede2f52bc5d5f9078da6bd4a00061
     name: rudder
@@ -1083,7 +1100,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 0.2.0
-    created: "2022-03-14T11:01:42.794862937Z"
+    created: "2022-03-14T11:06:10.353766971Z"
     description: A Helm chart for Kubernetes
     digest: 1c87953f984bcaa203d2def4c49446da78929aff92b487bbb7a48902b41d39ab
     name: rudder
@@ -1096,7 +1113,7 @@ entries:
       tkeel.io/enable: "false"
     apiVersion: v2
     appVersion: 0.4.2
-    created: "2022-03-14T11:01:42.804588727Z"
+    created: "2022-03-14T11:06:10.363511479Z"
     description: A Helm chart for Kubernetes
     digest: b6430dfce7da4efa3fc3d556501c4cdda358bdff51ed54dff4dafad6a55ae26c
     name: tkeel-device
@@ -1108,7 +1125,7 @@ entries:
       tkeel.io/enable: "false"
     apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-03-14T11:01:42.803870388Z"
+    created: "2022-03-14T11:06:10.362757115Z"
     description: A Helm chart for Kubernetes
     digest: d316ee8410358696ea00f3c2128ffaf6cd865341d77be1b42a170e693aac7364
     name: tkeel-device
@@ -1120,7 +1137,7 @@ entries:
       tkeel.io/enable: "false"
     apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-03-14T11:01:42.799857826Z"
+    created: "2022-03-14T11:06:10.358158675Z"
     description: A Helm chart for Kubernetes
     digest: 4e283d5892c03d462a76499adc4b8fb826cddb0384fdcbaaa624905ec241f59e
     name: tkeel-device
@@ -1132,7 +1149,7 @@ entries:
       tkeel.io/enable: "false"
     apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-03-14T11:01:42.803130855Z"
+    created: "2022-03-14T11:06:10.361917706Z"
     description: A Helm chart for Kubernetes
     digest: 1c897e4487f584cea6d634acd9ce241e0156ea920c6ef5e8f85a6dad9066273b
     name: tkeel-device
@@ -1144,7 +1161,7 @@ entries:
       tkeel.io/enable: "false"
     apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-03-14T11:01:42.802284571Z"
+    created: "2022-03-14T11:06:10.361147635Z"
     description: A Helm chart for Kubernetes
     digest: a930c5e6601777c91214b7468b2768b69bb4b28053871c38ec392ba736cb5a05
     name: tkeel-device
@@ -1154,7 +1171,7 @@ entries:
     version: 0.4.0-alpha.2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-03-14T11:01:42.801459986Z"
+    created: "2022-03-14T11:06:10.36031197Z"
     description: A Helm chart for Kubernetes
     digest: 56ca393df4ce7ac1a4731139861c59a4082c3770eac1d1251ad6db5d2fef3f28
     name: tkeel-device
@@ -1164,7 +1181,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-03-14T11:01:42.80066073Z"
+    created: "2022-03-14T11:06:10.359437411Z"
     description: A Helm chart for Kubernetes
     digest: fcbadd2292f383d5286449ccf31cd7cf783588e3eafaaffb0d1fcfbdc3ca1f27
     name: tkeel-device
@@ -1175,7 +1192,7 @@ entries:
   tkeel-middleware:
   - apiVersion: v2
     appVersion: main-0.4.2
-    created: "2022-03-14T11:01:43.277886077Z"
+    created: "2022-03-14T11:06:10.865269789Z"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -1204,7 +1221,7 @@ entries:
     version: 0.4.2
   - apiVersion: v2
     appVersion: PR-155-0.4.2
-    created: "2022-03-14T11:01:43.222980033Z"
+    created: "2022-03-14T11:06:10.802664733Z"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -1233,7 +1250,7 @@ entries:
     version: 0.4.2-PR-155
   - apiVersion: v2
     appVersion: 0.4.1
-    created: "2022-03-14T11:01:43.159909913Z"
+    created: "2022-03-14T11:06:10.7318726Z"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -1262,7 +1279,7 @@ entries:
     version: 0.4.1
   - apiVersion: v2
     appVersion: 0.3.2
-    created: "2022-03-14T11:01:43.103010309Z"
+    created: "2022-03-14T11:06:10.657164006Z"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -1285,7 +1302,7 @@ entries:
     version: 0.4.0
   - apiVersion: v2
     appVersion: 0.4.0-alpha.3
-    created: "2022-03-14T11:01:43.075787741Z"
+    created: "2022-03-14T11:06:10.630472654Z"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -1314,7 +1331,7 @@ entries:
     version: 0.4.0-alpha.3
   - apiVersion: v2
     appVersion: 0.4.0-alpha.2
-    created: "2022-03-14T11:01:43.017424899Z"
+    created: "2022-03-14T11:06:10.573941794Z"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -1343,7 +1360,7 @@ entries:
     version: 0.4.0-alpha.2
   - apiVersion: v2
     appVersion: 0.4.0
-    created: "2022-03-14T11:01:42.945971822Z"
+    created: "2022-03-14T11:06:10.50370236Z"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -1369,7 +1386,7 @@ entries:
     version: 0.4.0-alpha.1
   - apiVersion: v2
     appVersion: 0.3.0
-    created: "2022-03-14T11:01:42.900386908Z"
+    created: "2022-03-14T11:06:10.463238368Z"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -1392,7 +1409,7 @@ entries:
     version: 0.3.2
   - apiVersion: v2
     appVersion: 0.3.0
-    created: "2022-03-14T11:01:42.877446138Z"
+    created: "2022-03-14T11:06:10.436710673Z"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -1415,7 +1432,7 @@ entries:
     version: 0.3.1
   - apiVersion: v2
     appVersion: 0.3.0
-    created: "2022-03-14T11:01:42.84999178Z"
+    created: "2022-03-14T11:06:10.411151291Z"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -1432,7 +1449,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 0.2.0
-    created: "2022-03-14T11:01:42.832070572Z"
+    created: "2022-03-14T11:06:10.389458205Z"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -1449,7 +1466,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-03-14T11:01:42.816857491Z"
+    created: "2022-03-14T11:06:10.37162575Z"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -1464,7 +1481,7 @@ entries:
   tkeel-plugin-components:
   - apiVersion: v2
     appVersion: main-0.4.2
-    created: "2022-03-14T11:01:43.281505962Z"
+    created: "2022-03-14T11:06:10.874057724Z"
     description: plugin component chart.
     digest: e520ba27f9a0d7f2516d8323355a9fda78780dc91c0add32ef81e1f0e74edba9
     name: tkeel-plugin-components
@@ -1474,7 +1491,7 @@ entries:
     version: 0.4.2
   - apiVersion: v2
     appVersion: PR-155-0.4.2
-    created: "2022-03-14T11:01:43.281202864Z"
+    created: "2022-03-14T11:06:10.873100115Z"
     description: plugin component chart.
     digest: 4a506fabb78b83e226e22d8abfaa283ed8c71cc1c4cdcd3f411c910283f7b61c
     name: tkeel-plugin-components
@@ -1484,7 +1501,7 @@ entries:
     version: 0.4.2-PR-155
   - apiVersion: v2
     appVersion: 0.4.1
-    created: "2022-03-14T11:01:43.280871382Z"
+    created: "2022-03-14T11:06:10.872502816Z"
     description: plugin component chart.
     digest: 45d48152f218fb4675cbc22cc5bc9260942581d2cbd995be6b7b965e06ef7687
     name: tkeel-plugin-components
@@ -1494,7 +1511,7 @@ entries:
     version: 0.4.1
   - apiVersion: v2
     appVersion: 0.4.0-alpha.3
-    created: "2022-03-14T11:01:43.280544066Z"
+    created: "2022-03-14T11:06:10.871594977Z"
     description: plugin component chart.
     digest: d94ee2e069278748dd560d28ec48e83e565c4ac23f4b405ebbf9e84b16216231
     name: tkeel-plugin-components
@@ -1504,7 +1521,7 @@ entries:
     version: 0.4.0-alpha.3
   - apiVersion: v2
     appVersion: 0.4.0-alpha.2
-    created: "2022-03-14T11:01:43.280237828Z"
+    created: "2022-03-14T11:06:10.871093857Z"
     description: plugin component chart.
     digest: b61e170a85bd04b982647cdd3620023449c93ba9ce8f83e40e97a33dddc3c62d
     name: tkeel-plugin-components
@@ -1514,7 +1531,7 @@ entries:
     version: 0.4.0-alpha.2
   - apiVersion: v2
     appVersion: 0.4.0-alpha.1
-    created: "2022-03-14T11:01:43.279829056Z"
+    created: "2022-03-14T11:06:10.870539722Z"
     description: plugin component chart.
     digest: 0e82fe6907487ac2b38395a2a20d7b5038c9cf977d712d660c70eb17956307e4
     name: tkeel-plugin-components
@@ -1524,7 +1541,7 @@ entries:
     version: 0.4.0-alpha.1
   - apiVersion: v2
     appVersion: 0.3.0
-    created: "2022-03-14T11:01:43.279354867Z"
+    created: "2022-03-14T11:06:10.870016415Z"
     description: A Helm chart for Kubernetes
     digest: 2d8d4e91eb3bd9616fa0bbd773928fe653d1e10ad6a887f237922a421c30a3aa
     name: tkeel-plugin-components
@@ -1534,7 +1551,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 0.2.0
-    created: "2022-03-14T11:01:43.278857556Z"
+    created: "2022-03-14T11:06:10.866150209Z"
     description: A Helm chart for Kubernetes
     digest: 9ead592d8e808122bd3bf821df525a65a09fff571daec67eeb1ddd6b0a880167
     name: tkeel-plugin-components
@@ -1544,7 +1561,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-03-14T11:01:43.278385472Z"
+    created: "2022-03-14T11:06:10.86577133Z"
     description: A Helm chart for Kubernetes
     digest: bd51850d88b63e9aeef0e90ec57373aab4da1405acd14728abbf54dd797af8a0
     name: tkeel-plugin-components
@@ -1552,4 +1569,4 @@ entries:
     urls:
     - https://tkeel-io.github.io/helm-charts/tkeel-plugin-components-0.1.0.tgz
     version: 0.1.0
-generated: "2022-03-14T11:01:42.668292751Z"
+generated: "2022-03-14T11:06:10.202178444Z"
