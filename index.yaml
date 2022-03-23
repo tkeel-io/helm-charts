@@ -9,7 +9,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.0-alpha.2
-    created: "2022-03-21T21:51:06.036251+08:00"
+    created: "2022-03-23T10:14:48.19898+08:00"
     description: console of plugin manager
     digest: 821c1d8690eeb14818695afe862f7b5c579b7f30c5fffb5de1e53ce44267637c
     maintainers:
@@ -18,7 +18,7 @@ entries:
     name: console-plugin-admin-plugins
     type: application
     urls:
-    - https://tkeel-io.github.io/helm-charts/console-plugin-admin-plugins-0.4.3.tgz
+    - https://liuzhen21.github.io/helm-charts/console-plugin-admin-plugins-0.4.3.tgz
     version: 0.4.3
   - annotations:
       tkeel.io/deployment-name: console-plugin-admin-plugins
@@ -28,7 +28,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.1
-    created: "2022-03-21T21:51:06.034448+08:00"
+    created: "2022-03-23T10:14:48.198136+08:00"
     description: console of plugin manager
     digest: 7b7b2feb8efbb4fe378a9b16348c8bedb149dfa63130b014ee4a3750af5b890e
     maintainers:
@@ -37,7 +37,7 @@ entries:
     name: console-plugin-admin-plugins
     type: application
     urls:
-    - https://tkeel-io.github.io/helm-charts/console-plugin-admin-plugins-0.4.1.tgz
+    - https://liuzhen21.github.io/helm-charts/console-plugin-admin-plugins-0.4.1.tgz
     version: 0.4.1
   console-plugin-admin-tenants:
   - annotations:
@@ -48,7 +48,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.0-alpha.2
-    created: "2022-03-21T21:51:06.037775+08:00"
+    created: "2022-03-23T10:14:48.200809+08:00"
     description: console of plugin manager
     digest: 343509791774a83e8aef69dbe95c70836c1ffd937611b1697910667914a7d11b
     maintainers:
@@ -57,7 +57,7 @@ entries:
     name: console-plugin-admin-tenants
     type: application
     urls:
-    - https://tkeel-io.github.io/helm-charts/console-plugin-admin-tenants-0.4.3.tgz
+    - https://liuzhen21.github.io/helm-charts/console-plugin-admin-tenants-0.4.3.tgz
     version: 0.4.3
   - annotations:
       tkeel.io/deployment-name: console-plugin-admin-tenants
@@ -67,7 +67,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.1
-    created: "2022-03-21T21:51:06.037068+08:00"
+    created: "2022-03-23T10:14:48.199897+08:00"
     description: console of plugin manager
     digest: ef05b78d8dc153dfc0802b51469bce2796bceb0c1a927bb948db4bbeff6bf4c3
     maintainers:
@@ -76,7 +76,7 @@ entries:
     name: console-plugin-admin-tenants
     type: application
     urls:
-    - https://tkeel-io.github.io/helm-charts/console-plugin-admin-tenants-0.4.1.tgz
+    - https://liuzhen21.github.io/helm-charts/console-plugin-admin-tenants-0.4.1.tgz
     version: 0.4.1
   console-plugin-tenant-data-query:
   - annotations:
@@ -87,7 +87,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.2
-    created: "2022-03-21T21:51:06.038493+08:00"
+    created: "2022-03-23T10:14:48.201642+08:00"
     description: 数据查询
     digest: 9014c4406d485eeace300a111a4fd885de91ffe59130e245cf0e1d8968ae379f
     maintainers:
@@ -96,7 +96,7 @@ entries:
     name: console-plugin-tenant-data-query
     type: application
     urls:
-    - https://tkeel-io.github.io/helm-charts/console-plugin-tenant-data-query-0.4.3.tgz
+    - https://liuzhen21.github.io/helm-charts/console-plugin-tenant-data-query-0.4.3.tgz
     version: 0.4.3
   console-plugin-tenant-data-subscription:
   - annotations:
@@ -107,7 +107,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.0-alpha.2
-    created: "2022-03-21T21:51:06.039762+08:00"
+    created: "2022-03-23T10:14:48.203801+08:00"
     description: tenant and user console
     digest: 0d2c552ae93884a44096d28577cf29b3edc029125b2cfb3e80fe1472532adae0
     maintainers:
@@ -116,7 +116,7 @@ entries:
     name: console-plugin-tenant-data-subscription
     type: application
     urls:
-    - https://tkeel-io.github.io/helm-charts/console-plugin-tenant-data-subscription-0.4.3.tgz
+    - https://liuzhen21.github.io/helm-charts/console-plugin-tenant-data-subscription-0.4.3.tgz
     version: 0.4.3
   - annotations:
       tkeel.io/deployment-name: console-plugin-tenant-data-subscription
@@ -126,7 +126,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.1
-    created: "2022-03-21T21:51:06.03922+08:00"
+    created: "2022-03-23T10:14:48.203133+08:00"
     description: tenant and user console
     digest: 130050f6542a9796ec6fcfa1fad179663792641a44cd289a9f4531c4c7e65cc3
     maintainers:
@@ -135,7 +135,7 @@ entries:
     name: console-plugin-tenant-data-subscription
     type: application
     urls:
-    - https://tkeel-io.github.io/helm-charts/console-plugin-tenant-data-subscription-0.4.1.tgz
+    - https://liuzhen21.github.io/helm-charts/console-plugin-tenant-data-subscription-0.4.1.tgz
     version: 0.4.1
   console-plugin-tenant-devices:
   - annotations:
@@ -146,7 +146,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.0-alpha.2
-    created: "2022-03-21T21:51:06.040926+08:00"
+    created: "2022-03-23T10:14:48.205181+08:00"
     description: tenant and user console
     digest: 106cda6750e78f00f2964e3caf13c49f6ce6889b23bbb924cce3098099c0cb1c
     maintainers:
@@ -155,7 +155,7 @@ entries:
     name: console-plugin-tenant-devices
     type: application
     urls:
-    - https://tkeel-io.github.io/helm-charts/console-plugin-tenant-devices-0.4.3.tgz
+    - https://liuzhen21.github.io/helm-charts/console-plugin-tenant-devices-0.4.3.tgz
     version: 0.4.3
   - annotations:
       tkeel.io/deployment-name: console-plugin-tenant-devices
@@ -165,7 +165,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.1
-    created: "2022-03-21T21:51:06.04048+08:00"
+    created: "2022-03-23T10:14:48.204595+08:00"
     description: tenant and user console
     digest: 890969791218d51f777533a1ba3e7ed4cda96a16e4543a6d618ba78d85377272
     maintainers:
@@ -174,7 +174,7 @@ entries:
     name: console-plugin-tenant-devices
     type: application
     urls:
-    - https://tkeel-io.github.io/helm-charts/console-plugin-tenant-devices-0.4.1.tgz
+    - https://liuzhen21.github.io/helm-charts/console-plugin-tenant-devices-0.4.1.tgz
     version: 0.4.1
   console-plugin-tenant-example:
   - annotations:
@@ -185,7 +185,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.0-alpha.2
-    created: "2022-03-21T21:51:06.041793+08:00"
+    created: "2022-03-23T10:14:48.206665+08:00"
     description: tenant and user console
     digest: 54c30af78117c1afb705f261848f2efa07a7dc2d438b1ef0cd85b718bb51bb92
     maintainers:
@@ -194,7 +194,7 @@ entries:
     name: console-plugin-tenant-example
     type: application
     urls:
-    - https://tkeel-io.github.io/helm-charts/console-plugin-tenant-example-0.4.3.tgz
+    - https://liuzhen21.github.io/helm-charts/console-plugin-tenant-example-0.4.3.tgz
     version: 0.4.3
   - annotations:
       tkeel.io/deployment-name: console-plugin-tenant-example
@@ -204,7 +204,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.1
-    created: "2022-03-21T21:51:06.041375+08:00"
+    created: "2022-03-23T10:14:48.206027+08:00"
     description: tenant and user console
     digest: da5db967e7f2fca4fc4de91559a5eb041b2d3b3e3d3a5d81aec550a27d041c96
     maintainers:
@@ -213,7 +213,7 @@ entries:
     name: console-plugin-tenant-example
     type: application
     urls:
-    - https://tkeel-io.github.io/helm-charts/console-plugin-tenant-example-0.4.1.tgz
+    - https://liuzhen21.github.io/helm-charts/console-plugin-tenant-example-0.4.1.tgz
     version: 0.4.1
   console-plugin-tenant-plugins:
   - annotations:
@@ -224,7 +224,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.0-alpha.2
-    created: "2022-03-21T21:51:06.043022+08:00"
+    created: "2022-03-23T10:14:48.207808+08:00"
     description: tenant and user console
     digest: 81686a6804152b25cd4701ca1827b7f852274f9f7c6eed45f4695867bf4bc670
     maintainers:
@@ -233,7 +233,7 @@ entries:
     name: console-plugin-tenant-plugins
     type: application
     urls:
-    - https://tkeel-io.github.io/helm-charts/console-plugin-tenant-plugins-0.4.3.tgz
+    - https://liuzhen21.github.io/helm-charts/console-plugin-tenant-plugins-0.4.3.tgz
     version: 0.4.3
   - annotations:
       tkeel.io/deployment-name: console-plugin-tenant-plugins
@@ -243,7 +243,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.1
-    created: "2022-03-21T21:51:06.04239+08:00"
+    created: "2022-03-23T10:14:48.207196+08:00"
     description: tenant and user console
     digest: 66830f3b6978aa8afe6902782abac3adbccee4f02ffa9ee6a097d16d190b6b2e
     maintainers:
@@ -252,7 +252,7 @@ entries:
     name: console-plugin-tenant-plugins
     type: application
     urls:
-    - https://tkeel-io.github.io/helm-charts/console-plugin-tenant-plugins-0.4.1.tgz
+    - https://liuzhen21.github.io/helm-charts/console-plugin-tenant-plugins-0.4.1.tgz
     version: 0.4.1
   console-plugin-tenant-roles:
   - annotations:
@@ -263,7 +263,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.0-alpha.2
-    created: "2022-03-21T21:51:06.044106+08:00"
+    created: "2022-03-23T10:14:48.209914+08:00"
     description: tenant and user console
     digest: 628d64da460b542f796eb028a800467460f2aeb87d5cf92a5b921a8f4419e75e
     maintainers:
@@ -272,7 +272,7 @@ entries:
     name: console-plugin-tenant-roles
     type: application
     urls:
-    - https://tkeel-io.github.io/helm-charts/console-plugin-tenant-roles-0.4.3.tgz
+    - https://liuzhen21.github.io/helm-charts/console-plugin-tenant-roles-0.4.3.tgz
     version: 0.4.3
   - annotations:
       tkeel.io/deployment-name: console-plugin-tenant-roles
@@ -282,7 +282,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.1
-    created: "2022-03-21T21:51:06.04355+08:00"
+    created: "2022-03-23T10:14:48.20937+08:00"
     description: tenant and user console
     digest: 96d4ce641ae23d50618798be39e13a0f5537b2a2c6713f48e817c5d919fb9f40
     maintainers:
@@ -291,7 +291,7 @@ entries:
     name: console-plugin-tenant-roles
     type: application
     urls:
-    - https://tkeel-io.github.io/helm-charts/console-plugin-tenant-roles-0.4.1.tgz
+    - https://liuzhen21.github.io/helm-charts/console-plugin-tenant-roles-0.4.1.tgz
     version: 0.4.1
   console-plugin-tenant-users:
   - annotations:
@@ -302,7 +302,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.0-alpha.2
-    created: "2022-03-21T21:51:06.045551+08:00"
+    created: "2022-03-23T10:14:48.210848+08:00"
     description: tenant and user console
     digest: 45a0d083981a4bfcc5a9f3fa135f809b8bb54446257a6d05a19d22e82e6f6b4b
     maintainers:
@@ -311,7 +311,7 @@ entries:
     name: console-plugin-tenant-users
     type: application
     urls:
-    - https://tkeel-io.github.io/helm-charts/console-plugin-tenant-users-0.4.3.tgz
+    - https://liuzhen21.github.io/helm-charts/console-plugin-tenant-users-0.4.3.tgz
     version: 0.4.3
   - annotations:
       tkeel.io/deployment-name: console-plugin-tenant-users
@@ -321,7 +321,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.1
-    created: "2022-03-21T21:51:06.044935+08:00"
+    created: "2022-03-23T10:14:48.210387+08:00"
     description: tenant and user console
     digest: 302cd6fb6ee14970cf626449c1d87d260e7c54e2f42b83ef925a36f57ff52a66
     maintainers:
@@ -330,7 +330,7 @@ entries:
     name: console-plugin-tenant-users
     type: application
     urls:
-    - https://tkeel-io.github.io/helm-charts/console-plugin-tenant-users-0.4.1.tgz
+    - https://liuzhen21.github.io/helm-charts/console-plugin-tenant-users-0.4.1.tgz
     version: 0.4.1
   console-portal-admin:
   - annotations:
@@ -341,7 +341,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.0-alpha.2
-    created: "2022-03-21T21:51:06.046909+08:00"
+    created: "2022-03-23T10:14:48.212209+08:00"
     description: console manager portal
     digest: 8fffabc3c7b72d83ede7abad4c96612c4ec4c03eb70e0ad6ff44ccc89afd6989
     maintainers:
@@ -350,7 +350,7 @@ entries:
     name: console-portal-admin
     type: application
     urls:
-    - https://tkeel-io.github.io/helm-charts/console-portal-admin-0.4.3.tgz
+    - https://liuzhen21.github.io/helm-charts/console-portal-admin-0.4.3.tgz
     version: 0.4.3
   - annotations:
       tkeel.io/deployment-name: console-portal-admin
@@ -360,7 +360,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.1
-    created: "2022-03-21T21:51:06.046199+08:00"
+    created: "2022-03-23T10:14:48.211438+08:00"
     description: console manager portal
     digest: 2faa3ed4337b1c36f3eae5cd789705958f03a519b44cbbbf6aa8c734b25b9fec
     maintainers:
@@ -369,7 +369,7 @@ entries:
     name: console-portal-admin
     type: application
     urls:
-    - https://tkeel-io.github.io/helm-charts/console-portal-admin-0.4.1.tgz
+    - https://liuzhen21.github.io/helm-charts/console-portal-admin-0.4.1.tgz
     version: 0.4.1
   console-portal-tenant:
   - annotations:
@@ -380,7 +380,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.0-alpha.2
-    created: "2022-03-21T21:51:06.049015+08:00"
+    created: "2022-03-23T10:14:48.21359+08:00"
     description: console user portal
     digest: c7ace80d6b0f9a8d0676846c706e536bbc88b30430bc3007cb9a9d70f419c420
     maintainers:
@@ -389,7 +389,7 @@ entries:
     name: console-portal-tenant
     type: application
     urls:
-    - https://tkeel-io.github.io/helm-charts/console-portal-tenant-0.4.3.tgz
+    - https://liuzhen21.github.io/helm-charts/console-portal-tenant-0.4.3.tgz
     version: 0.4.3
   - annotations:
       tkeel.io/deployment-name: console-portal-tenant
@@ -399,7 +399,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.1
-    created: "2022-03-21T21:51:06.048318+08:00"
+    created: "2022-03-23T10:14:48.212718+08:00"
     description: console user portal
     digest: bb08dbc4b182603116ecf150b88c19ede5892cfeeb9a409471ef4d45d30dd983
     maintainers:
@@ -408,12 +408,12 @@ entries:
     name: console-portal-tenant
     type: application
     urls:
-    - https://tkeel-io.github.io/helm-charts/console-portal-tenant-0.4.1.tgz
+    - https://liuzhen21.github.io/helm-charts/console-portal-tenant-0.4.1.tgz
     version: 0.4.1
   core:
   - apiVersion: v2
     appVersion: feat-ts-0.4.3
-    created: "2022-03-21T21:51:06.057972+08:00"
+    created: "2022-03-23T10:14:48.219839+08:00"
     dependencies:
     - name: influxdb
       repository: https://charts.bitnami.com/bitnami
@@ -426,17 +426,17 @@ entries:
     name: core
     type: application
     urls:
-    - https://tkeel-io.github.io/helm-charts/core-0.4.3.tgz
+    - https://liuzhen21.github.io/helm-charts/core-0.4.3.tgz
     version: 0.4.3
   - apiVersion: v2
     appVersion: 0.4.1
-    created: "2022-03-21T21:51:06.052124+08:00"
+    created: "2022-03-23T10:14:48.214464+08:00"
     description: A Helm chart for Kubernetes
     digest: 73e1230cffc56413ba2e1a0dbbe5e0b2ed12bf65e27b71ba43e68f6128e7b265
     name: core
     type: application
     urls:
-    - https://tkeel-io.github.io/helm-charts/core-0.4.1.tgz
+    - https://liuzhen21.github.io/helm-charts/core-0.4.1.tgz
     version: 0.4.1
   core-broker:
   - annotations:
@@ -447,7 +447,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: main-0.4.3
-    created: "2022-03-21T21:51:06.071514+08:00"
+    created: "2022-03-23T10:14:48.233498+08:00"
     dependencies:
     - name: mysql
       repository: https://charts.bitnami.com/bitnami
@@ -460,7 +460,7 @@ entries:
     name: core-broker
     type: application
     urls:
-    - https://tkeel-io.github.io/helm-charts/core-broker-0.4.3.tgz
+    - https://liuzhen21.github.io/helm-charts/core-broker-0.4.3.tgz
     version: 0.4.3
   - annotations:
       tkeel.io/deployment-name: core-broker
@@ -470,7 +470,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: main-0.4.2
-    created: "2022-03-21T21:51:06.067476+08:00"
+    created: "2022-03-23T10:14:48.229119+08:00"
     dependencies:
     - name: mysql
       repository: https://charts.bitnami.com/bitnami
@@ -483,7 +483,7 @@ entries:
     name: core-broker
     type: application
     urls:
-    - https://tkeel-io.github.io/helm-charts/core-broker-0.4.2.tgz
+    - https://liuzhen21.github.io/helm-charts/core-broker-0.4.2.tgz
     version: 0.4.2
   - annotations:
       tkeel.io/deployment-name: core-broker
@@ -493,7 +493,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.1
-    created: "2022-03-21T21:51:06.062157+08:00"
+    created: "2022-03-23T10:14:48.225063+08:00"
     dependencies:
     - name: mysql
       repository: https://charts.bitnami.com/bitnami
@@ -506,14 +506,14 @@ entries:
     name: core-broker
     type: application
     urls:
-    - https://tkeel-io.github.io/helm-charts/core-broker-0.4.1.tgz
+    - https://liuzhen21.github.io/helm-charts/core-broker-0.4.1.tgz
     version: 0.4.1
   iothub:
   - annotations:
       tkeel.io/enable: "false"
     apiVersion: v2
     appVersion: main-0.4.3
-    created: "2022-03-21T21:51:06.075517+08:00"
+    created: "2022-03-23T10:14:48.239705+08:00"
     dependencies:
     - name: emqx
       repository: ""
@@ -522,13 +522,13 @@ entries:
     name: iothub
     type: application
     urls:
-    - https://tkeel-io.github.io/helm-charts/iothub-0.4.3.tgz
+    - https://liuzhen21.github.io/helm-charts/iothub-0.4.3.tgz
     version: 0.4.3
   - annotations:
       tkeel.io/enable: "false"
     apiVersion: v2
     appVersion: main-0.4.2
-    created: "2022-03-21T21:51:06.074201+08:00"
+    created: "2022-03-23T10:14:48.237023+08:00"
     dependencies:
     - name: emqx
       repository: ""
@@ -537,13 +537,13 @@ entries:
     name: iothub
     type: application
     urls:
-    - https://tkeel-io.github.io/helm-charts/iothub-0.4.2.tgz
+    - https://liuzhen21.github.io/helm-charts/iothub-0.4.2.tgz
     version: 0.4.2
   - annotations:
       tkeel.io/enable: "false"
     apiVersion: v2
     appVersion: 0.4.1
-    created: "2022-03-21T21:51:06.072856+08:00"
+    created: "2022-03-23T10:14:48.235231+08:00"
     dependencies:
     - name: emqx
       repository: ""
@@ -552,49 +552,49 @@ entries:
     name: iothub
     type: application
     urls:
-    - https://tkeel-io.github.io/helm-charts/iothub-0.4.1.tgz
+    - https://liuzhen21.github.io/helm-charts/iothub-0.4.1.tgz
     version: 0.4.1
   keel:
   - apiVersion: v2
     appVersion: main-0.4.3
-    created: "2022-03-21T21:51:06.07665+08:00"
+    created: "2022-03-23T10:14:48.241244+08:00"
     description: tKeel platform gateway.
     digest: 6d10e9c80a348520724aec9c4c25d219962d1ba3c1eee9826ec0573a0186c40e
     name: keel
     type: application
     urls:
-    - https://tkeel-io.github.io/helm-charts/keel-0.4.3.tgz
+    - https://liuzhen21.github.io/helm-charts/keel-0.4.3.tgz
     version: 0.4.3
   - apiVersion: v2
     appVersion: main-0.4.1
-    created: "2022-03-21T21:51:06.076014+08:00"
+    created: "2022-03-23T10:14:48.240383+08:00"
     description: tKeel platform gateway.
     digest: fe154fe8050501b8148e27be1fdbffe2ba15b4fe7cb021e4d71541657e23a21a
     name: keel
     type: application
     urls:
-    - https://tkeel-io.github.io/helm-charts/keel-0.4.1.tgz
+    - https://liuzhen21.github.io/helm-charts/keel-0.4.1.tgz
     version: 0.4.1
   rudder:
   - apiVersion: v2
     appVersion: main-0.4.3
-    created: "2022-03-21T21:51:06.077897+08:00"
+    created: "2022-03-23T10:14:48.242723+08:00"
     description: tKeel platform plugin manager component.
     digest: 536e0f3e15d399e5d8097e59f5c136e9f072af9ed4b27591c69dd112737362d7
     name: rudder
     type: application
     urls:
-    - https://tkeel-io.github.io/helm-charts/rudder-0.4.3.tgz
+    - https://liuzhen21.github.io/helm-charts/rudder-0.4.3.tgz
     version: 0.4.3
   - apiVersion: v2
     appVersion: main-0.4.1
-    created: "2022-03-21T21:51:06.077383+08:00"
+    created: "2022-03-23T10:14:48.242061+08:00"
     description: tKeel platform plugin manager component.
     digest: 7951331843986c0182cdc9c236142daaf1369c0387637bd104eb4aabe8f100bc
     name: rudder
     type: application
     urls:
-    - https://tkeel-io.github.io/helm-charts/rudder-0.4.1.tgz
+    - https://liuzhen21.github.io/helm-charts/rudder-0.4.1.tgz
     version: 0.4.1
   rule-manager:
   - annotations:
@@ -605,7 +605,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.1
-    created: "2022-03-21T21:51:06.079235+08:00"
+    created: "2022-03-23T10:14:48.243746+08:00"
     description: A Helm chart for Kubernetes
     digest: 142344d9366df970b54e1936ee31f4375775ad74131c75e6a0f7a793bf897b60
     maintainers:
@@ -614,37 +614,37 @@ entries:
     name: rule-manager
     type: application
     urls:
-    - https://tkeel-io.github.io/helm-charts/rule-manager-0.4.1.tgz
+    - https://liuzhen21.github.io/helm-charts/rule-manager-0.4.1.tgz
     version: 0.4.1
   tkeel-device:
   - annotations:
       tkeel.io/enable: "false"
     apiVersion: v2
     appVersion: main-0.4.3
-    created: "2022-03-21T21:51:06.080595+08:00"
+    created: "2022-03-23T10:14:48.24527+08:00"
     description: A Helm chart for Kubernetes
     digest: 3e3cacd40980532b33f73b4d8b63b84dfc54cf28c07309c1b8af5523ae6cffa0
     name: tkeel-device
     type: application
     urls:
-    - https://tkeel-io.github.io/helm-charts/tkeel-device-0.4.3.tgz
+    - https://liuzhen21.github.io/helm-charts/tkeel-device-0.4.3.tgz
     version: 0.4.3
   - annotations:
       tkeel.io/enable: "false"
     apiVersion: v2
     appVersion: 0.4.1
-    created: "2022-03-21T21:51:06.07998+08:00"
+    created: "2022-03-23T10:14:48.244427+08:00"
     description: A Helm chart for Kubernetes
     digest: be57216b75280d514fbf4a8cbe0189d4694717efefeaad8c9fe235941ca349e7
     name: tkeel-device
     type: application
     urls:
-    - https://tkeel-io.github.io/helm-charts/tkeel-device-0.4.1.tgz
+    - https://liuzhen21.github.io/helm-charts/tkeel-device-0.4.1.tgz
     version: 0.4.1
   tkeel-middleware:
   - apiVersion: v2
     appVersion: main-0.4.3
-    created: "2022-03-21T21:51:06.141543+08:00"
+    created: "2022-03-23T10:14:48.307703+08:00"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -669,11 +669,11 @@ entries:
     name: tkeel-middleware
     type: application
     urls:
-    - https://tkeel-io.github.io/helm-charts/tkeel-middleware-0.4.3.tgz
+    - https://liuzhen21.github.io/helm-charts/tkeel-middleware-0.4.3.tgz
     version: 0.4.3
   - apiVersion: v2
     appVersion: main-0.4.1
-    created: "2022-03-21T21:51:06.111775+08:00"
+    created: "2022-03-23T10:14:48.276203+08:00"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -698,27 +698,27 @@ entries:
     name: tkeel-middleware
     type: application
     urls:
-    - https://tkeel-io.github.io/helm-charts/tkeel-middleware-0.4.1.tgz
+    - https://liuzhen21.github.io/helm-charts/tkeel-middleware-0.4.1.tgz
     version: 0.4.1
   tkeel-plugin-components:
   - apiVersion: v2
     appVersion: main-0.4.3
-    created: "2022-03-21T21:51:06.143024+08:00"
+    created: "2022-03-23T10:14:48.309122+08:00"
     description: plugin component chart.
     digest: 907ef8c7178ec4baf2c21dceb987528aadc52af697d35be52bee70847d7c2985
     name: tkeel-plugin-components
     type: application
     urls:
-    - https://tkeel-io.github.io/helm-charts/tkeel-plugin-components-0.4.3.tgz
+    - https://liuzhen21.github.io/helm-charts/tkeel-plugin-components-0.4.3.tgz
     version: 0.4.3
   - apiVersion: v2
     appVersion: main-0.4.1
-    created: "2022-03-21T21:51:06.142337+08:00"
+    created: "2022-03-23T10:14:48.308445+08:00"
     description: plugin component chart.
     digest: ccc139d476893b6f5f11e9e1f5dd1cbc39c3469810c4b3a36b89a94c725ac9cb
     name: tkeel-plugin-components
     type: application
     urls:
-    - https://tkeel-io.github.io/helm-charts/tkeel-plugin-components-0.4.1.tgz
+    - https://liuzhen21.github.io/helm-charts/tkeel-plugin-components-0.4.1.tgz
     version: 0.4.1
-generated: "2022-03-21T21:51:06.032333+08:00"
+generated: "2022-03-23T10:14:48.197064+08:00"
