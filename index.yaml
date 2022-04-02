@@ -8,8 +8,27 @@ entries:
       tkeel.io/tag: manager
       tkeel.io/version: v0.4.0
     apiVersion: v2
+    appVersion: main-0.4.5
+    created: "2022-04-02T10:22:54.528625872Z"
+    description: console of plugin manager
+    digest: 022ad13e28fbe46f3c8472a867f762a20e4d8480ebc04cc081a4452a56a2b9f0
+    maintainers:
+    - email: caoyue@yunify.com
+      name: caoyue
+    name: console-plugin-admin-plugins
+    type: application
+    urls:
+    - https://tkeel-io.github.io/helm-charts/console-plugin-admin-plugins-0.4.5.tgz
+    version: 0.4.5
+  - annotations:
+      tkeel.io/deployment-name: console-plugin-admin-plugins
+      tkeel.io/enable: "true"
+      tkeel.io/plugin-port: "80"
+      tkeel.io/tag: manager
+      tkeel.io/version: v0.4.0
+    apiVersion: v2
     appVersion: main-0.4.4
-    created: "2022-04-02T09:55:29.740846028Z"
+    created: "2022-04-02T10:22:54.52795503Z"
     description: console of plugin manager
     digest: d0ff6d98541246552145bd11c79f19c78a430fb063559609ab3760423f276bf8
     maintainers:
@@ -28,7 +47,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.0-alpha.2
-    created: "2022-04-02T09:55:29.74015999Z"
+    created: "2022-04-02T10:22:54.527323758Z"
     description: console of plugin manager
     digest: 821c1d8690eeb14818695afe862f7b5c579b7f30c5fffb5de1e53ce44267637c
     maintainers:
@@ -47,7 +66,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.1
-    created: "2022-04-02T09:55:29.736649492Z"
+    created: "2022-04-02T10:22:54.526549419Z"
     description: console of plugin manager
     digest: 7b7b2feb8efbb4fe378a9b16348c8bedb149dfa63130b014ee4a3750af5b890e
     maintainers:
@@ -66,8 +85,27 @@ entries:
       tkeel.io/tag: manager
       tkeel.io/version: v0.4.0
     apiVersion: v2
+    appVersion: main-0.4.5
+    created: "2022-04-02T10:22:54.531108852Z"
+    description: console of plugin manager
+    digest: 8a42a2c82c7e110142065a8b218fcebdc9c916ca165f3f4ca8d84864491c5530
+    maintainers:
+    - email: caoyue@yunify.com
+      name: caoyue
+    name: console-plugin-admin-tenants
+    type: application
+    urls:
+    - https://tkeel-io.github.io/helm-charts/console-plugin-admin-tenants-0.4.5.tgz
+    version: 0.4.5
+  - annotations:
+      tkeel.io/deployment-name: console-plugin-admin-tenants
+      tkeel.io/enable: "true"
+      tkeel.io/plugin-port: "80"
+      tkeel.io/tag: manager
+      tkeel.io/version: v0.4.0
+    apiVersion: v2
     appVersion: main-0.4.4
-    created: "2022-04-02T09:55:29.742384437Z"
+    created: "2022-04-02T10:22:54.530478951Z"
     description: console of plugin manager
     digest: 49a6b86978c1d0b4f2b0577e1938fa351964ed454feca96e0ae2fc1de783bc30
     maintainers:
@@ -86,7 +124,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.0-alpha.2
-    created: "2022-04-02T09:55:29.741903825Z"
+    created: "2022-04-02T10:22:54.529955195Z"
     description: console of plugin manager
     digest: 343509791774a83e8aef69dbe95c70836c1ffd937611b1697910667914a7d11b
     maintainers:
@@ -105,7 +143,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.1
-    created: "2022-04-02T09:55:29.741366986Z"
+    created: "2022-04-02T10:22:54.529327648Z"
     description: console of plugin manager
     digest: ef05b78d8dc153dfc0802b51469bce2796bceb0c1a927bb948db4bbeff6bf4c3
     maintainers:
@@ -124,8 +162,27 @@ entries:
       tkeel.io/tag: manager
       tkeel.io/version: v0.4.0
     apiVersion: v2
+    appVersion: main-0.4.5
+    created: "2022-04-02T10:22:54.532793955Z"
+    description: 数据查询
+    digest: b4b7731eb4980732a3b84b74df60b3d824ff077a3fc5f1fe69a49a9b1dca4fdb
+    maintainers:
+    - email: donniean@yunify.com
+      name: donniean
+    name: console-plugin-tenant-data-query
+    type: application
+    urls:
+    - https://tkeel-io.github.io/helm-charts/console-plugin-tenant-data-query-0.4.5.tgz
+    version: 0.4.5
+  - annotations:
+      tkeel.io/deployment-name: console-plugin-tenant-data-query
+      tkeel.io/enable: "true"
+      tkeel.io/plugin-port: "80"
+      tkeel.io/tag: manager
+      tkeel.io/version: v0.4.0
+    apiVersion: v2
     appVersion: main-0.4.4
-    created: "2022-04-02T09:55:29.743313492Z"
+    created: "2022-04-02T10:22:54.532144441Z"
     description: 数据查询
     digest: dcb994339de424f573d761b286d40ee621338a246486a5bc8ae0db92ec2e0fc0
     maintainers:
@@ -144,7 +201,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.2
-    created: "2022-04-02T09:55:29.742839764Z"
+    created: "2022-04-02T10:22:54.531534264Z"
     description: 数据查询
     digest: 9014c4406d485eeace300a111a4fd885de91ffe59130e245cf0e1d8968ae379f
     maintainers:
@@ -163,8 +220,27 @@ entries:
       tkeel.io/tag: manager
       tkeel.io/version: v0.4.0
     apiVersion: v2
+    appVersion: main-0.4.5
+    created: "2022-04-02T10:22:54.534738899Z"
+    description: tenant and user console
+    digest: 5f4458552f532af181871a0dcd4477c38ef388a2462f2fd0515fe410a16adf0c
+    maintainers:
+    - email: caoyue@yunify.com
+      name: caoyue
+    name: console-plugin-tenant-data-subscription
+    type: application
+    urls:
+    - https://tkeel-io.github.io/helm-charts/console-plugin-tenant-data-subscription-0.4.5.tgz
+    version: 0.4.5
+  - annotations:
+      tkeel.io/deployment-name: console-plugin-tenant-data-subscription
+      tkeel.io/enable: "true"
+      tkeel.io/plugin-port: "80"
+      tkeel.io/tag: manager
+      tkeel.io/version: v0.4.0
+    apiVersion: v2
     appVersion: main-0.4.4
-    created: "2022-04-02T09:55:29.744759175Z"
+    created: "2022-04-02T10:22:54.534292995Z"
     description: tenant and user console
     digest: 2d419cce9d6168f364ab668e8f06ac3e61ed912f4fac2a01803b0b54e06b7b8b
     maintainers:
@@ -183,7 +259,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.0-alpha.2
-    created: "2022-04-02T09:55:29.744352214Z"
+    created: "2022-04-02T10:22:54.533833109Z"
     description: tenant and user console
     digest: 0d2c552ae93884a44096d28577cf29b3edc029125b2cfb3e80fe1472532adae0
     maintainers:
@@ -202,7 +278,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.1
-    created: "2022-04-02T09:55:29.74381112Z"
+    created: "2022-04-02T10:22:54.533222233Z"
     description: tenant and user console
     digest: 130050f6542a9796ec6fcfa1fad179663792641a44cd289a9f4531c4c7e65cc3
     maintainers:
@@ -221,8 +297,27 @@ entries:
       tkeel.io/tag: manager
       tkeel.io/version: v0.4.0
     apiVersion: v2
+    appVersion: main-0.4.5
+    created: "2022-04-02T10:22:54.535775951Z"
+    description: tenant and user console
+    digest: 9934bf900b9690a3a3a34f5cc817a1ef51ae6b8c0161aacd291e91f3e400e876
+    maintainers:
+    - email: caoyue@yunify.com
+      name: caoyue
+    name: console-plugin-tenant-device-templates
+    type: application
+    urls:
+    - https://tkeel-io.github.io/helm-charts/console-plugin-tenant-device-templates-0.4.5.tgz
+    version: 0.4.5
+  - annotations:
+      tkeel.io/deployment-name: console-plugin-tenant-device-templates
+      tkeel.io/enable: "true"
+      tkeel.io/plugin-port: "80"
+      tkeel.io/tag: manager
+      tkeel.io/version: v0.4.0
+    apiVersion: v2
     appVersion: main-0.4.4
-    created: "2022-04-02T09:55:29.74530251Z"
+    created: "2022-04-02T10:22:54.535275971Z"
     description: tenant and user console
     digest: f74038ae97da3c9da7e5b620479dfc90e1e8b96ce805bc12bcd1a2e0e303eb26
     maintainers:
@@ -241,8 +336,27 @@ entries:
       tkeel.io/tag: manager
       tkeel.io/version: v0.4.0
     apiVersion: v2
+    appVersion: main-0.4.5
+    created: "2022-04-02T10:22:54.537640507Z"
+    description: tenant and user console
+    digest: 88493453574bccca4700137624b1c74a3fe378c3d225b45111639ee9a29409bd
+    maintainers:
+    - email: caoyue@yunify.com
+      name: caoyue
+    name: console-plugin-tenant-devices
+    type: application
+    urls:
+    - https://tkeel-io.github.io/helm-charts/console-plugin-tenant-devices-0.4.5.tgz
+    version: 0.4.5
+  - annotations:
+      tkeel.io/deployment-name: console-plugin-tenant-devices
+      tkeel.io/enable: "true"
+      tkeel.io/plugin-port: "80"
+      tkeel.io/tag: manager
+      tkeel.io/version: v0.4.0
+    apiVersion: v2
     appVersion: main-0.4.4
-    created: "2022-04-02T09:55:29.746581071Z"
+    created: "2022-04-02T10:22:54.537117713Z"
     description: tenant and user console
     digest: 315dc78e613cdda5dcfd6b6c8d90f95846f197aca61d0b2435e717b96161281a
     maintainers:
@@ -261,7 +375,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.0-alpha.2
-    created: "2022-04-02T09:55:29.746128563Z"
+    created: "2022-04-02T10:22:54.536649585Z"
     description: tenant and user console
     digest: 106cda6750e78f00f2964e3caf13c49f6ce6889b23bbb924cce3098099c0cb1c
     maintainers:
@@ -280,7 +394,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.1
-    created: "2022-04-02T09:55:29.745715826Z"
+    created: "2022-04-02T10:22:54.53620306Z"
     description: tenant and user console
     digest: 890969791218d51f777533a1ba3e7ed4cda96a16e4543a6d618ba78d85377272
     maintainers:
@@ -300,7 +414,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: main-0.4.4
-    created: "2022-04-02T09:55:29.748066944Z"
+    created: "2022-04-02T10:22:54.53896236Z"
     description: tenant and user console
     digest: 991633b4ff9c21045a5ce1b22908bfc304a99f3e8f861fecdd46c3583632bb7c
     maintainers:
@@ -319,7 +433,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.0-alpha.2
-    created: "2022-04-02T09:55:29.74753725Z"
+    created: "2022-04-02T10:22:54.538544789Z"
     description: tenant and user console
     digest: 54c30af78117c1afb705f261848f2efa07a7dc2d438b1ef0cd85b718bb51bb92
     maintainers:
@@ -338,7 +452,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.1
-    created: "2022-04-02T09:55:29.747026856Z"
+    created: "2022-04-02T10:22:54.538088408Z"
     description: tenant and user console
     digest: da5db967e7f2fca4fc4de91559a5eb041b2d3b3e3d3a5d81aec550a27d041c96
     maintainers:
@@ -357,8 +471,27 @@ entries:
       tkeel.io/tag: manager
       tkeel.io/version: v0.4.0
     apiVersion: v2
+    appVersion: main-0.4.5
+    created: "2022-04-02T10:22:54.542961782Z"
+    description: tenant and user console
+    digest: 4d0f4519a7675111223672e188fa2d181f8bbe8ac6a03710571a4e37bc73d8f5
+    maintainers:
+    - email: caoyue@yunify.com
+      name: caoyue
+    name: console-plugin-tenant-plugins
+    type: application
+    urls:
+    - https://tkeel-io.github.io/helm-charts/console-plugin-tenant-plugins-0.4.5.tgz
+    version: 0.4.5
+  - annotations:
+      tkeel.io/deployment-name: console-plugin-tenant-plugins
+      tkeel.io/enable: "true"
+      tkeel.io/plugin-port: "80"
+      tkeel.io/tag: manager
+      tkeel.io/version: v0.4.0
+    apiVersion: v2
     appVersion: main-0.4.4
-    created: "2022-04-02T09:55:29.750359844Z"
+    created: "2022-04-02T10:22:54.541270686Z"
     description: tenant and user console
     digest: b5399ef4f509b140e7b7102b904d042163d5fb50dbb8ffbc216d7af653b68fb0
     maintainers:
@@ -377,7 +510,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.0-alpha.2
-    created: "2022-04-02T09:55:29.749539259Z"
+    created: "2022-04-02T10:22:54.540423926Z"
     description: tenant and user console
     digest: 81686a6804152b25cd4701ca1827b7f852274f9f7c6eed45f4695867bf4bc670
     maintainers:
@@ -396,7 +529,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.1
-    created: "2022-04-02T09:55:29.748552546Z"
+    created: "2022-04-02T10:22:54.539388118Z"
     description: tenant and user console
     digest: 66830f3b6978aa8afe6902782abac3adbccee4f02ffa9ee6a097d16d190b6b2e
     maintainers:
@@ -415,8 +548,27 @@ entries:
       tkeel.io/tag: manager
       tkeel.io/version: v0.4.0
     apiVersion: v2
+    appVersion: main-0.4.5
+    created: "2022-04-02T10:22:54.544913482Z"
+    description: tenant and user console
+    digest: 463f904de214c0efcfd26720e3199e7bfca82036904934bb3217a98e5991a961
+    maintainers:
+    - email: caoyue@yunify.com
+      name: caoyue
+    name: console-plugin-tenant-roles
+    type: application
+    urls:
+    - https://tkeel-io.github.io/helm-charts/console-plugin-tenant-roles-0.4.5.tgz
+    version: 0.4.5
+  - annotations:
+      tkeel.io/deployment-name: console-plugin-tenant-roles
+      tkeel.io/enable: "true"
+      tkeel.io/plugin-port: "80"
+      tkeel.io/tag: manager
+      tkeel.io/version: v0.4.0
+    apiVersion: v2
     appVersion: main-0.4.4
-    created: "2022-04-02T09:55:29.752422615Z"
+    created: "2022-04-02T10:22:54.544340635Z"
     description: tenant and user console
     digest: 44da1c79ee175b07c066aa295a252cc92d706ce678cfdb24921fcf59a9dc8181
     maintainers:
@@ -435,7 +587,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.0-alpha.2
-    created: "2022-04-02T09:55:29.751651555Z"
+    created: "2022-04-02T10:22:54.543939612Z"
     description: tenant and user console
     digest: 628d64da460b542f796eb028a800467460f2aeb87d5cf92a5b921a8f4419e75e
     maintainers:
@@ -454,7 +606,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.1
-    created: "2022-04-02T09:55:29.751023006Z"
+    created: "2022-04-02T10:22:54.543487341Z"
     description: tenant and user console
     digest: 96d4ce641ae23d50618798be39e13a0f5537b2a2c6713f48e817c5d919fb9f40
     maintainers:
@@ -465,6 +617,26 @@ entries:
     urls:
     - https://tkeel-io.github.io/helm-charts/console-plugin-tenant-roles-0.4.1.tgz
     version: 0.4.1
+  console-plugin-tenant-routing-rules:
+  - annotations:
+      tkeel.io/deployment-name: console-plugin-tenant-routing-rules
+      tkeel.io/enable: "true"
+      tkeel.io/plugin-port: "80"
+      tkeel.io/tag: manager
+      tkeel.io/version: v0.4.0
+    apiVersion: v2
+    appVersion: main-0.4.5
+    created: "2022-04-02T10:22:54.545546329Z"
+    description: tenant and user console
+    digest: 57133ad0cc62583baa410a98bc7a6e3fa5195852b19341011d9dca3ebae17ced
+    maintainers:
+    - email: caoyue@yunify.com
+      name: caoyue
+    name: console-plugin-tenant-routing-rules
+    type: application
+    urls:
+    - https://tkeel-io.github.io/helm-charts/console-plugin-tenant-routing-rules-0.4.5.tgz
+    version: 0.4.5
   console-plugin-tenant-users:
   - annotations:
       tkeel.io/deployment-name: console-plugin-tenant-users
@@ -473,8 +645,27 @@ entries:
       tkeel.io/tag: manager
       tkeel.io/version: v0.4.0
     apiVersion: v2
+    appVersion: main-0.4.5
+    created: "2022-04-02T10:22:54.54740758Z"
+    description: tenant and user console
+    digest: a204587bd767c8225c56ce8d77158669d92f86ada25eff4ae226644687518663
+    maintainers:
+    - email: caoyue@yunify.com
+      name: caoyue
+    name: console-plugin-tenant-users
+    type: application
+    urls:
+    - https://tkeel-io.github.io/helm-charts/console-plugin-tenant-users-0.4.5.tgz
+    version: 0.4.5
+  - annotations:
+      tkeel.io/deployment-name: console-plugin-tenant-users
+      tkeel.io/enable: "true"
+      tkeel.io/plugin-port: "80"
+      tkeel.io/tag: manager
+      tkeel.io/version: v0.4.0
+    apiVersion: v2
     appVersion: main-0.4.4
-    created: "2022-04-02T09:55:29.754598164Z"
+    created: "2022-04-02T10:22:54.546959669Z"
     description: tenant and user console
     digest: db1b89c02895e554704f055886e489b7d35534e6c5ab13bfdb3f6656cd338e6a
     maintainers:
@@ -493,7 +684,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.0-alpha.2
-    created: "2022-04-02T09:55:29.753919111Z"
+    created: "2022-04-02T10:22:54.546522385Z"
     description: tenant and user console
     digest: 45a0d083981a4bfcc5a9f3fa135f809b8bb54446257a6d05a19d22e82e6f6b4b
     maintainers:
@@ -512,7 +703,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.1
-    created: "2022-04-02T09:55:29.753346891Z"
+    created: "2022-04-02T10:22:54.546022446Z"
     description: tenant and user console
     digest: 302cd6fb6ee14970cf626449c1d87d260e7c54e2f42b83ef925a36f57ff52a66
     maintainers:
@@ -531,8 +722,27 @@ entries:
       tkeel.io/tag: manager
       tkeel.io/version: v0.4.0
     apiVersion: v2
+    appVersion: main-0.4.5
+    created: "2022-04-02T10:22:54.549213071Z"
+    description: console manager portal
+    digest: b17788aa1e90853bba5aa6fcf4543e4a1d981e6dc38f27ecce658087d9b7f57e
+    maintainers:
+    - email: caoyue@yunify.com
+      name: caoyue
+    name: console-portal-admin
+    type: application
+    urls:
+    - https://tkeel-io.github.io/helm-charts/console-portal-admin-0.4.5.tgz
+    version: 0.4.5
+  - annotations:
+      tkeel.io/deployment-name: console-portal-admin
+      tkeel.io/enable: "true"
+      tkeel.io/plugin-port: "80"
+      tkeel.io/tag: manager
+      tkeel.io/version: v0.4.0
+    apiVersion: v2
     appVersion: main-0.4.4
-    created: "2022-04-02T09:55:29.759188519Z"
+    created: "2022-04-02T10:22:54.548681903Z"
     description: console manager portal
     digest: 9166f5c97b675cc3a8f9b399dc204be4ccf3319645342303cdccc67842b45645
     maintainers:
@@ -551,7 +761,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.0-alpha.2
-    created: "2022-04-02T09:55:29.757468391Z"
+    created: "2022-04-02T10:22:54.54824064Z"
     description: console manager portal
     digest: 8fffabc3c7b72d83ede7abad4c96612c4ec4c03eb70e0ad6ff44ccc89afd6989
     maintainers:
@@ -570,7 +780,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.1
-    created: "2022-04-02T09:55:29.756142584Z"
+    created: "2022-04-02T10:22:54.547828471Z"
     description: console manager portal
     digest: 2faa3ed4337b1c36f3eae5cd789705958f03a519b44cbbbf6aa8c734b25b9fec
     maintainers:
@@ -589,8 +799,27 @@ entries:
       tkeel.io/tag: manager
       tkeel.io/version: v0.4.0
     apiVersion: v2
+    appVersion: main-0.4.5
+    created: "2022-04-02T10:22:54.551174207Z"
+    description: console user portal
+    digest: cf9d4c3c87fa3c31313e56b70f07df362cce44f4d1e194ccd4b2d38d6f03fd77
+    maintainers:
+    - email: caoyue@yunify.com
+      name: caoyue
+    name: console-portal-tenant
+    type: application
+    urls:
+    - https://tkeel-io.github.io/helm-charts/console-portal-tenant-0.4.5.tgz
+    version: 0.4.5
+  - annotations:
+      tkeel.io/deployment-name: console-portal-tenant
+      tkeel.io/enable: "true"
+      tkeel.io/plugin-port: "80"
+      tkeel.io/tag: manager
+      tkeel.io/version: v0.4.0
+    apiVersion: v2
     appVersion: main-0.4.4
-    created: "2022-04-02T09:55:29.762484421Z"
+    created: "2022-04-02T10:22:54.550680879Z"
     description: console user portal
     digest: 20fac6e927e542c5133be6db301bc238f3cfa48bb694cd331626c2d636c71ffc
     maintainers:
@@ -609,7 +838,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.0-alpha.2
-    created: "2022-04-02T09:55:29.761810356Z"
+    created: "2022-04-02T10:22:54.550205797Z"
     description: console user portal
     digest: c7ace80d6b0f9a8d0676846c706e536bbc88b30430bc3007cb9a9d70f419c420
     maintainers:
@@ -628,7 +857,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.1
-    created: "2022-04-02T09:55:29.760640667Z"
+    created: "2022-04-02T10:22:54.549747343Z"
     description: console user portal
     digest: bb08dbc4b182603116ecf150b88c19ede5892cfeeb9a409471ef4d45d30dd983
     maintainers:
@@ -642,7 +871,7 @@ entries:
   core:
   - apiVersion: v2
     appVersion: main-0.4.5
-    created: "2022-04-02T09:55:29.812978313Z"
+    created: "2022-04-02T10:22:54.578319016Z"
     dependencies:
     - name: influxdb
       repository: https://charts.bitnami.com/bitnami
@@ -659,7 +888,7 @@ entries:
     version: 0.4.5
   - apiVersion: v2
     appVersion: feat-ts-0.4.4
-    created: "2022-04-02T09:55:29.786230432Z"
+    created: "2022-04-02T10:22:54.570417515Z"
     dependencies:
     - name: influxdb
       repository: https://charts.bitnami.com/bitnami
@@ -676,7 +905,7 @@ entries:
     version: 0.4.4
   - apiVersion: v2
     appVersion: feat-ts-0.4.3
-    created: "2022-04-02T09:55:29.773942096Z"
+    created: "2022-04-02T10:22:54.56228008Z"
     dependencies:
     - name: influxdb
       repository: https://charts.bitnami.com/bitnami
@@ -693,7 +922,7 @@ entries:
     version: 0.4.3
   - apiVersion: v2
     appVersion: 0.4.1
-    created: "2022-04-02T09:55:29.763468495Z"
+    created: "2022-04-02T10:22:54.551705193Z"
     description: A Helm chart for Kubernetes
     digest: 73e1230cffc56413ba2e1a0dbbe5e0b2ed12bf65e27b71ba43e68f6128e7b265
     name: core
@@ -710,7 +939,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: main-0.4.5
-    created: "2022-04-02T09:55:29.866934376Z"
+    created: "2022-04-02T10:22:54.626878786Z"
     dependencies:
     - name: mysql
       repository: https://charts.bitnami.com/bitnami
@@ -733,7 +962,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: main-0.4.4
-    created: "2022-04-02T09:55:29.858626547Z"
+    created: "2022-04-02T10:22:54.620573237Z"
     dependencies:
     - name: mysql
       repository: https://charts.bitnami.com/bitnami
@@ -756,7 +985,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: main-0.4.3
-    created: "2022-04-02T09:55:29.851605863Z"
+    created: "2022-04-02T10:22:54.614297463Z"
     dependencies:
     - name: mysql
       repository: https://charts.bitnami.com/bitnami
@@ -779,7 +1008,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: main-0.4.2
-    created: "2022-04-02T09:55:29.841354494Z"
+    created: "2022-04-02T10:22:54.593253054Z"
     dependencies:
     - name: mysql
       repository: https://charts.bitnami.com/bitnami
@@ -802,7 +1031,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: 0.4.1
-    created: "2022-04-02T09:55:29.820667475Z"
+    created: "2022-04-02T10:22:54.587235729Z"
     dependencies:
     - name: mysql
       repository: https://charts.bitnami.com/bitnami
@@ -822,7 +1051,7 @@ entries:
       tkeel.io/enable: "false"
     apiVersion: v2
     appVersion: main-0.4.3
-    created: "2022-04-02T09:55:29.875365486Z"
+    created: "2022-04-02T10:22:54.63220963Z"
     dependencies:
     - name: emqx
       repository: ""
@@ -837,7 +1066,7 @@ entries:
       tkeel.io/enable: "false"
     apiVersion: v2
     appVersion: main-0.4.2
-    created: "2022-04-02T09:55:29.873488668Z"
+    created: "2022-04-02T10:22:54.630518994Z"
     dependencies:
     - name: emqx
       repository: ""
@@ -852,7 +1081,7 @@ entries:
       tkeel.io/enable: "false"
     apiVersion: v2
     appVersion: 0.4.1
-    created: "2022-04-02T09:55:29.871314674Z"
+    created: "2022-04-02T10:22:54.628804378Z"
     dependencies:
     - name: emqx
       repository: ""
@@ -866,7 +1095,7 @@ entries:
   keel:
   - apiVersion: v2
     appVersion: main-0.4.5
-    created: "2022-04-02T09:55:29.877245873Z"
+    created: "2022-04-02T10:22:54.63536229Z"
     description: tKeel platform gateway.
     digest: 0699f1ceda8138744ea2ade6b7755bc5fa927c61aed693fb2df75ae16af3adfe
     name: keel
@@ -876,7 +1105,7 @@ entries:
     version: 0.4.5
   - apiVersion: v2
     appVersion: main-0.4.4
-    created: "2022-04-02T09:55:29.876700557Z"
+    created: "2022-04-02T10:22:54.634958529Z"
     description: tKeel platform gateway.
     digest: 4948bcbfc00abbdc96dda044d8760b819047b9b473321b71843d8704527c1b25
     name: keel
@@ -886,7 +1115,7 @@ entries:
     version: 0.4.4
   - apiVersion: v2
     appVersion: main-0.4.3
-    created: "2022-04-02T09:55:29.876213286Z"
+    created: "2022-04-02T10:22:54.634561723Z"
     description: tKeel platform gateway.
     digest: 6d10e9c80a348520724aec9c4c25d219962d1ba3c1eee9826ec0573a0186c40e
     name: keel
@@ -896,7 +1125,7 @@ entries:
     version: 0.4.3
   - apiVersion: v2
     appVersion: main-0.4.1
-    created: "2022-04-02T09:55:29.875812683Z"
+    created: "2022-04-02T10:22:54.634100274Z"
     description: tKeel platform gateway.
     digest: fe154fe8050501b8148e27be1fdbffe2ba15b4fe7cb021e4d71541657e23a21a
     name: keel
@@ -907,7 +1136,7 @@ entries:
   rudder:
   - apiVersion: v2
     appVersion: main-0.4.5
-    created: "2022-04-02T09:55:29.879595737Z"
+    created: "2022-04-02T10:22:54.637912186Z"
     description: tKeel platform plugin manager component.
     digest: ebc4eb3e264743ee5c0e1a756b52cef5f7c2ac6e78e5b740605d5e9ca2673ae0
     name: rudder
@@ -917,7 +1146,7 @@ entries:
     version: 0.4.5
   - apiVersion: v2
     appVersion: main-0.4.4
-    created: "2022-04-02T09:55:29.879057186Z"
+    created: "2022-04-02T10:22:54.637167732Z"
     description: tKeel platform plugin manager component.
     digest: 048e149c8e09499f522a1bc8959a263152393051554ef4b3f2af15681384a2ba
     name: rudder
@@ -927,7 +1156,7 @@ entries:
     version: 0.4.4
   - apiVersion: v2
     appVersion: main-0.4.3
-    created: "2022-04-02T09:55:29.878468032Z"
+    created: "2022-04-02T10:22:54.636491473Z"
     description: tKeel platform plugin manager component.
     digest: 536e0f3e15d399e5d8097e59f5c136e9f072af9ed4b27591c69dd112737362d7
     name: rudder
@@ -937,7 +1166,7 @@ entries:
     version: 0.4.3
   - apiVersion: v2
     appVersion: main-0.4.1
-    created: "2022-04-02T09:55:29.877887443Z"
+    created: "2022-04-02T10:22:54.635914314Z"
     description: tKeel platform plugin manager component.
     digest: 7951331843986c0182cdc9c236142daaf1369c0387637bd104eb4aabe8f100bc
     name: rudder
@@ -954,7 +1183,7 @@ entries:
       tkeel.io/version: v0.4.0
     apiVersion: v2
     appVersion: main-0.4.5
-    created: "2022-04-02T09:55:29.880227446Z"
+    created: "2022-04-02T10:22:54.638553278Z"
     description: A Helm chart for Kubernetes
     digest: 4ceaf993e6ad276e87a1050db9bbcc166098bd6c577627dc64f3c2608043d11c
     maintainers:
@@ -970,7 +1199,7 @@ entries:
       tkeel.io/enable: "false"
     apiVersion: v2
     appVersion: main-0.4.5
-    created: "2022-04-02T09:55:29.884510972Z"
+    created: "2022-04-02T10:22:54.641641563Z"
     description: A Helm chart for Kubernetes
     digest: c6202c84f7d969dc269abe8cf0977764e531a2f8d4c5606618fc80a6de3b345a
     name: tkeel-device
@@ -982,7 +1211,7 @@ entries:
       tkeel.io/enable: "false"
     apiVersion: v2
     appVersion: main-0.4.4
-    created: "2022-04-02T09:55:29.883608886Z"
+    created: "2022-04-02T10:22:54.64087479Z"
     description: A Helm chart for Kubernetes
     digest: 17025b360e8a7c418a8c8f8e9c2df5fb02c0a99be21d0e76c523ec764613f679
     name: tkeel-device
@@ -994,7 +1223,7 @@ entries:
       tkeel.io/enable: "false"
     apiVersion: v2
     appVersion: main-0.4.3
-    created: "2022-04-02T09:55:29.882836447Z"
+    created: "2022-04-02T10:22:54.640113519Z"
     description: A Helm chart for Kubernetes
     digest: 4dc82a7e90ef45998eb33e713f814565f1c61c823dff6d36c8ab433d87d17a41
     name: tkeel-device
@@ -1006,7 +1235,7 @@ entries:
       tkeel.io/enable: "false"
     apiVersion: v2
     appVersion: 0.4.1
-    created: "2022-04-02T09:55:29.881291933Z"
+    created: "2022-04-02T10:22:54.639338609Z"
     description: A Helm chart for Kubernetes
     digest: be57216b75280d514fbf4a8cbe0189d4694717efefeaad8c9fe235941ca349e7
     name: tkeel-device
@@ -1017,7 +1246,7 @@ entries:
   tkeel-middleware:
   - apiVersion: v2
     appVersion: main-0.4.5
-    created: "2022-04-02T09:55:30.190078707Z"
+    created: "2022-04-02T10:22:54.87791932Z"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -1046,7 +1275,7 @@ entries:
     version: 0.4.5
   - apiVersion: v2
     appVersion: main-0.4.4
-    created: "2022-04-02T09:55:30.118904485Z"
+    created: "2022-04-02T10:22:54.822791428Z"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -1075,7 +1304,7 @@ entries:
     version: 0.4.4
   - apiVersion: v2
     appVersion: main-0.4.3
-    created: "2022-04-02T09:55:30.044139374Z"
+    created: "2022-04-02T10:22:54.769374156Z"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -1104,7 +1333,7 @@ entries:
     version: 0.4.3
   - apiVersion: v2
     appVersion: main-0.4.1
-    created: "2022-04-02T09:55:29.955629067Z"
+    created: "2022-04-02T10:22:54.711332414Z"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -1134,7 +1363,7 @@ entries:
   tkeel-plugin-components:
   - apiVersion: v2
     appVersion: main-0.4.5
-    created: "2022-04-02T09:55:30.191639921Z"
+    created: "2022-04-02T10:22:54.879460497Z"
     description: plugin component chart.
     digest: 2c702008ba08790fbac2ec372093ec434ee2f58100b087eba8bfd4aa99450d08
     name: tkeel-plugin-components
@@ -1144,7 +1373,7 @@ entries:
     version: 0.4.5
   - apiVersion: v2
     appVersion: main-0.4.4
-    created: "2022-04-02T09:55:30.191289749Z"
+    created: "2022-04-02T10:22:54.879048127Z"
     description: plugin component chart.
     digest: 8639151d2184b35b89686237acfb6bd68f46a956f450994f3ddc98965bac210f
     name: tkeel-plugin-components
@@ -1154,7 +1383,7 @@ entries:
     version: 0.4.4
   - apiVersion: v2
     appVersion: main-0.4.3
-    created: "2022-04-02T09:55:30.190923645Z"
+    created: "2022-04-02T10:22:54.878749608Z"
     description: plugin component chart.
     digest: 907ef8c7178ec4baf2c21dceb987528aadc52af697d35be52bee70847d7c2985
     name: tkeel-plugin-components
@@ -1164,7 +1393,7 @@ entries:
     version: 0.4.3
   - apiVersion: v2
     appVersion: main-0.4.1
-    created: "2022-04-02T09:55:30.190576648Z"
+    created: "2022-04-02T10:22:54.878418115Z"
     description: plugin component chart.
     digest: ccc139d476893b6f5f11e9e1f5dd1cbc39c3469810c4b3a36b89a94c725ac9cb
     name: tkeel-plugin-components
@@ -1172,4 +1401,4 @@ entries:
     urls:
     - https://tkeel-io.github.io/helm-charts/tkeel-plugin-components-0.4.1.tgz
     version: 0.4.1
-generated: "2022-04-02T09:55:29.734966449Z"
+generated: "2022-04-02T10:22:54.523125378Z"
